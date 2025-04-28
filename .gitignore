@@ -1,4 +1,13 @@
-venv/
-.env
+# Ignore Python cache
 __pycache__/
 *.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore FAISS files if large (optional)
+*.faiss
+*.pkl
