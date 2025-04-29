@@ -11,3 +11,9 @@ venv/
 # Ignore FAISS files if large (optional)
 *.faiss
 *.pkl
+
+# Ignore scrapped json file
+scrapers/data/
+
+# Ignore logs
+app/logs/
