@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import json
 import time
 import shutil
+import re
 
 BASE_URL = "https://en.wikipedia.org"
 ROOT_PAGE = "/wiki/Computer_science"
@@ -34,7 +35,7 @@ def parse_links(html, max_links=50):
 
     for link in content_div.find_all("a", href=True):
         href = link["href"]
-        if href.startswith("/wiki/") and not any(x in href for x in [":", "#"]):
+        if (href.startswith("/wiki/") and not any(x in href for x in [":", "#", "disambiguation", "List_of"])):
             full_url = BASE_URL + href
             links.add(full_url)
             if len(links) >= max_links:
@@ -42,32 +43,36 @@ def parse_links(html, max_links=50):
 
     return list(links)
 
+
 def clean_text(html):
     soup = BeautifulSoup(html, "html.parser")
+    main_content = soup.find("div", class_="mw-parser-output")
+    if not main_content:
+        print("❌ main_content not found")
+        return ""
+
     content = []
 
-    # Focus only inside main content (Optional improvement)
-    main_content = soup.find("div", {"class": "mw-parser-output"})
-    if not main_content:
-        main_content = soup  # fallback
+    for elem in main_content.find_all(["h2", "h3", "h4", "p", "ul", "ol"]):
+        if elem.name in ["h2", "h3", "h4"]:
+            heading = elem.get_text(strip=True)
+            if heading:
+                content.append(f"\n## {heading}\n")
 
-    for elem in main_content.find_all(["p", "ul", "ol", "h2", "h3", "h4"]):
-        if elem.name == "p":
-            text = elem.get_text(strip=True)
-            if text:
-                content.append(text)
+        elif elem.name == "p":
+            para = elem.get_text(strip=True)
+            if para:
+                content.append(para)
+
         elif elem.name in ["ul", "ol"]:
-            for li in elem.find_all("li"):
+            for li in elem.find_all("li", recursive=False):
                 li_text = li.get_text(strip=True)
                 if li_text:
                     content.append(f"- {li_text}")
-        elif elem.name in ["h2", "h3", "h4"]:
-            heading_text = elem.get_text(strip=True)
-            if heading_text:
-                content.append(f"\n## {heading_text}\n")
 
-    return "\n".join(content)
-
+    final_text = "\n".join(content).strip()
+    print(f"✅ Final cleaned text length: {len(final_text)}")
+    return final_text
 
 def save_page(title, text):
     os.makedirs(SAVE_DIR, exist_ok=True)
@@ -107,8 +112,12 @@ def scrape_wikipedia():
         title = page_url.split("/wiki/")[-1].replace("_", " ")
         text = clean_text(html)
 
-        if len(text) < 300:
+        if len(text) < 100:
             print(f"Skipping {title} (too short).")
+            continue
+
+        if "may refer to:" in text or "disambiguation" in title.lower(): # Skip disambiguation pages
+            print(f"Skipping {title} (disambiguation/stub).")
             continue
 
         save_page(title, text)
