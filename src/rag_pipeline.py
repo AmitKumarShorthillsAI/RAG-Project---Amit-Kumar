@@ -1,120 +1,132 @@
-# src/rag_pipeline.py
-
 import os
 import json
 import shutil
-import faiss
-from langchain_community.vectorstores import FAISS
-from langchain.docstore.document import Document
+import time
+from pathlib import Path
+from typing import List
+import re
+import difflib
+import logging
+
+from tqdm import tqdm
+
+from langchain_community.document_loaders import JSONLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
-from sklearn.cluster import KMeans
-import numpy as np
+from langchain.schema import Document
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
 
-DATA_DIR = "../scrapers/data/raw_scraped"
-INDEX_SAVE_PATH = "../embeddings/full_faiss_index"
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-class DocumentLoader:
-    def __init__(self, data_dir):
-        self.data_dir = data_dir
+class RagPipeline:
+    def __init__(self, raw_data_path="../scrapers/data/raw_scraped", index_path="../embeddings/full_faiss_index", chunk_size=500, chunk_overlap=50):
+        self.raw_data_path = raw_data_path
+        self.index_path = index_path
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
 
-    def load_documents(self):
-        documents = []
-        for filename in os.listdir(self.data_dir):
-            if filename.endswith(".json"):
-                path = os.path.join(self.data_dir, filename)
-                with open(path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    title = data.get("title", "")
-                    content = data.get("content", "")
-                    documents.append(Document(page_content=content, metadata={"title": title}))
-        return documents
+        # Clear old FAISS index
+        if os.path.exists(index_path):
+            shutil.rmtree(index_path)
+            logging.info(f"Removed existing FAISS index at {index_path}")
+        os.makedirs(index_path, exist_ok=True)
 
-class Chunker:
-    def __init__(self, chunk_size=500, chunk_overlap=50):
         self.splitter = RecursiveCharacterTextSplitter(
-            # chunk_size=chunk_size,
-            chunk_overlap=chunk_overlap,
+            chunk_size=self.chunk_size,
+            chunk_overlap=self.chunk_overlap,
             separators=["\n\n", "\n", ".", " ", ""],
         )
 
-    def split_documents(self, documents):
-        return self.splitter.split_documents(documents)
+        self.embedding_model = HuggingFaceEmbeddings(
+            model_name="BAAI/bge-large-en-v1.5"
+        )
 
-class Embedder:
-    def __init__(self, model_name="BAAI/bge-small-en-v1.5"):
-        self.model = HuggingFaceEmbeddings(model_name=model_name)
+    def clean_text(self, text):
+        text = re.sub(r"\[\d+\]", "", text)
+        text = re.sub(r"\[citation needed\]", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"\s+", " ", text).strip()
+        return text
 
-    def embed_documents(self, documents):
-        return self.model.embed_documents([doc.page_content for doc in documents])
+    def fuzzy_duplicate(self, chunk, previous_chunks, threshold=0.9):
+        for prev in previous_chunks:
+            similarity = difflib.SequenceMatcher(None, chunk, prev).ratio()
+            if similarity > threshold:
+                return True
+        return False
 
-class VectorStoreManager:
-    def __init__(self, embedder):
-        self.embedder = embedder
+    def load_and_chunk_documents(self) -> List[Document]:
+        files = list(Path(self.raw_data_path).glob("*.json"))
+        logging.info(f"Found {len(files)} JSON files to process.")
 
-    def create_vector_store(self, documents):
-        vectorstore = FAISS.from_documents(documents, self.embedder.model)
-        return vectorstore
+        all_chunks = []
+        seen_chunks = []
+        duplicate_filtered = 0
+        chunk_lengths = []
 
-    def save_vector_store(self, vectorstore, save_path):
-        vectorstore.save_local(save_path)
+        for file in tqdm(files, desc="📄 Chunking files"):
+            with open(file, "r", encoding="utf-8") as f:
+                data = json.load(f)
 
-def clear_old_index(path):
-    """
-    Delete the existing FAISS index directory if it exists.
-    """
-    if os.path.exists(path):
-        shutil.rmtree(path)
-    os.makedirs(path, exist_ok=True)
+            title = data.get("title", "Untitled")
+            content = self.clean_text(data.get("content", ""))
 
-def cluster_documents(docs, embedder, query, num_clusters=3):
-    if not docs:
-        return []
+            if not content or len(content) < 100:
+                continue
 
-    # Embed the documents
-    doc_texts = [doc.page_content for doc in docs]
-    doc_embeddings = embedder.embed_documents(doc_texts)
-    doc_embeddings = np.array(doc_embeddings)
+            chunks = self.splitter.split_text(content)
+            for chunk in chunks:
+                cleaned_chunk = self.clean_text(chunk)
 
-    # Perform KMeans clustering
-    kmeans = KMeans(n_clusters=num_clusters, random_state=42, n_init='auto')
-    cluster_ids = kmeans.fit_predict(doc_embeddings)
+                if self.fuzzy_duplicate(cleaned_chunk, seen_chunks):
+                    duplicate_filtered += 1
+                    continue
 
-    # Find cluster whose centroid is closest to query
-    query_embedding = np.array(embedder.embed_query(query))
-    centroid_distances = np.linalg.norm(kmeans.cluster_centers_ - query_embedding, axis=1)
-    best_cluster = np.argmin(centroid_distances)
+                seen_chunks.append(cleaned_chunk)
+                chunk_lengths.append(len(cleaned_chunk))
 
-    # Pick documents from best cluster
-    clustered_docs = [doc for doc, cid in zip(docs, cluster_ids) if cid == best_cluster]
+                doc = Document(
+                    page_content=f"{title}\n{cleaned_chunk}",
+                    metadata={"title": title, "source": str(file)}
+                )
+                all_chunks.append(doc)
 
-    return clustered_docs
+        logging.info(f"✅ Chunking complete: {len(all_chunks)} chunks")
+        logging.info(f"🚫 Skipped {duplicate_filtered} duplicate/similar chunks")
+        logging.info(f"📏 Avg chunk length: {sum(chunk_lengths) // len(chunk_lengths) if chunk_lengths else 0}")
+        return all_chunks
 
-def main():
-    print("Loading documents...")
-    loader = DocumentLoader(DATA_DIR)
-    documents = loader.load_documents()
-    print(f"Loaded {len(documents)} documents.")
+    def embed_and_store(self, chunks: List[Document]):
+        logging.info("🔍 Starting embedding...")
 
-    print("Splitting into chunks...")
-    chunker = Chunker(chunk_size=500, chunk_overlap=50)
-    chunks = chunker.split_documents(documents)
-    print(f"Generated {len(chunks)} chunks.")
+        start = time.time()
 
-    print("Initializing embedder...")
-    embedder = Embedder()
+        # Wrap documents in a tqdm progress bar
+        class tqdmEmbedding:
+            def __init__(self, embedder, total):
+                self.embedder = embedder
+                self.pbar = tqdm(total=total, desc="💡 Embedding chunks")
 
-    print("Clearing old FAISS index...")
-    clear_old_index(INDEX_SAVE_PATH)  # <<<<<< Added clearing function here!
+            def embed_documents(self, texts):
+                embeddings = []
+                for text in texts:
+                    embeddings.append(self.embedder.embed_documents([text])[0])
+                    self.pbar.update(1)
+                self.pbar.close()
+                return embeddings
 
-    print("Creating FAISS vectorstore...")
-    manager = VectorStoreManager(embedder)
-    vectorstore = manager.create_vector_store(chunks)
+        embedder = tqdmEmbedding(self.embedding_model, total=len(chunks))
+        db = FAISS.from_documents(chunks, embedder)
+        db.save_local(self.index_path)
 
-    print("Saving vectorstore locally...")
-    manager.save_vector_store(vectorstore, INDEX_SAVE_PATH)
+        end = time.time()
+        logging.info(f"✅ Embedding complete in {round(end - start, 2)} seconds.")
+        logging.info(f"📦 FAISS index stored at {self.index_path}")
 
-    print(f"Vectorstore successfully saved at {INDEX_SAVE_PATH}")
+    def run(self):
+        chunks = self.load_and_chunk_documents()
+        self.embed_and_store(chunks)
 
 if __name__ == "__main__":
-    main()
+    pipeline = RagPipeline()
+    pipeline.run()
+    logging.info("✅ RAG pipeline completed successfully.")
