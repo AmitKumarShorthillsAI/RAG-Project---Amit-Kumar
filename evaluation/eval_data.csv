@@ -1,0 +1,1006 @@
+Question,Answer
+What is abstraction in computer science?,The process of generalizing details to focus on what's important.
+Which programming paradigm emphasizes abstraction heavily?,Object-oriented programming.
+What does abstraction help humans focus on?,A few issues at a time.
+What is preserved in abstraction?,Relevant information.
+What is ignored in abstraction?,Irrelevant information.
+What is language abstraction used for?,Expressing specific aspects of a system.
+What does each generation of programming language represent?,A new level of abstraction.
+What is the first-generation programming language?,Machine language.
+What is the second-generation programming language?,Assembly language.
+What is the third-generation programming language?,High-level programming language.
+What language types came after the third generation?,Scripting and domain-specific languages.
+What lets programmers create new abstractions in code?,"Subroutines, modules, polymorphism, components."
+What are examples of design-level abstractions?,Design patterns and architectural styles.
+What is Joel Spolsky's criticism of abstractions?,All abstractions are leaky.
+What does a foreign function interface allow?,Calling lower-level languages.
+What are specification languages based on?,Abstractions.
+What is UML used for?,Defining abstract classes.
+What is control abstraction?,Hiding low-level operations in high-level constructs.
+What does structured programming reduce?,Complexity and side effects.
+What does data abstraction separate?,Interface and implementation.
+What is an example of data abstraction?,Lookup table abstracting key-value mapping.
+What is encapsulation?,Hiding internal state details.
+What is polymorphism?,Substituting different object types interchangeably.
+What is delegation in OOP?,Simplifying relationships within types.
+What does inheritance allow?,Reusing structure and behavior from other classes.
+What is the role of templates in C++?,Supporting compile-time abstraction.
+What is object-oriented analysis concerned with?,Real-world relationships.
+What is domain analysis?,Determining the scope of abstraction.
+What is legacy analysis?,Understanding systems to cooperate with.
+What is abstract interpretation?,Analyzing simplified models of programs.
+What does model checking work on?,Abstract models of systems.
+What is abstraction gradient?,A trade-off metric in language design.
+What does Rice’s Theorem imply about abstraction?,Some program properties are undecidable.
+What can an abstraction yield instead of answers?,"""I don't know""."
+What is a key benefit of abstraction in design?,Hiding complexity.
+What are the database abstraction levels?,"Physical, logical, and view levels."
+What is physical data independence?,Logical structure not affected by physical changes.
+What does the view level in databases do?,Simplifies access to needed information.
+What design pattern uses abstraction layering?,Layered architecture.
+Why is layered architecture useful?,Isolates components for easier changes.
+What is an academic discipline?,A subdivision of knowledge taught and researched at the college or university level.
+How are academic disciplines recognized?,"Through academic journals, learned societies, and academic departments or faculties."
+What are the conventional categories of academic disciplines?,"Humanities, scientific disciplines, formal sciences, and sometimes social sciences."
+What terms are synonymous with academic discipline?,"Field of study, field of inquiry, research field, branch of knowledge."
+Who are considered generalists?,Individuals who studied liberal arts or systems theory instead of focusing on a specific academic discipline.
+What does interdisciplinary or multidisciplinary mean?,Integration of aspects from multiple disciplines to solve complex problems.
+Why can communication be difficult across disciplines?,"Due to differences in jargon, concepts, and methodology."
+What is “Mode 2” science?,A proposed future model of knowledge acquisition through cross-disciplinary collaboration.
+What were the original four faculties of the University of Paris in 1231?,"Theology, Medicine, Canon Law, and Arts."
+Where did the concept of academic discipline originate?,In German universities during the early 19th century.
+When did new academic disciplines such as education and psychology emerge?,In the early 20th century.
+What disciplines emerged in the 1970s and 1980s?,"Media studies, women's studies, Africana studies, and professional fields like nursing and corrections."
+Can a discipline like public administration exist in multiple settings?,"Yes, e.g., in business schools and political science departments."
+How were natural historians and philosophers defined before the term “scientist”?,Natural historians studied life sciences; natural philosophers studied physical sciences.
+Why did scientific specializations emerge?,Due to the rapid growth of scientific knowledge and the need to concentrate on narrower topics.
+What critique did Michel Foucault offer about academic disciplines?,"He argued they share control mechanisms with institutions like prisons, classifying and hierarchizing individuals."
+Where can communities of academic disciplines exist outside academia?,"In corporations, government agencies, and independent organizations like NASA and IUPAC."
+How do different national development stages affect academic discipline focus?,"Developing nations prioritize applied fields (e.g., engineering), while developed ones may invest more in humanities and social sciences."
+What is a multidisciplinary community?,A group of people from different disciplines addressing complex problems collaboratively.
+What challenge does a multidisciplinary team often face?,Communication issues due to lack of shared vocabulary and methodologies.
+Give an example of a concept emerging across multiple disciplines.,"The shift toward structural awareness seen in cubism, physics, poetry, and educational theory."
+"What causes such interdisciplinary paradigm shifts, according to McLuhan?",Transition from mechanization (sequentiality) to electric age (simultaneity).
+What is transdisciplinarity?,A holistic approach integrating all interdisciplinary efforts into a coherent whole.
+What is cross-disciplinary knowledge?,"Explaining aspects of one discipline using concepts from another, e.g., physics of music."
+What is bibliometrics?,A method using citation analysis to study idea flow and influence among disciplines.
+What are the limitations of bibliometrics?,It may not reflect quality or originality and can be skewed by the size of the field.
+Who was Alan Turing?,"An English mathematician, computer scientist, logician, and cryptanalyst."
+What concept did Turing formalize in computer science?,The concept of algorithm and computation using the Turing machine.
+Where did Turing receive his higher education?,"King’s College, Cambridge and Princeton University."
+What was Turing’s role during World War II?,"He led Hut 8 at Bletchley Park, focusing on German naval codebreaking."
+What machine did Turing improve to crack Enigma codes?,The Polish bomba.
+What post-war machine did Turing help design?,The Automatic Computing Engine.
+Which university did Turing join in 1948?,University of Manchester.
+What was Turing’s contribution to biology?,He wrote on morphogenesis and predicted chemical oscillations like the Belousov–Zhabotinsky reaction.
+Why was Turing not fully recognized during his lifetime?,Much of his work was classified under the Official Secrets Act.
+What legal punishment did Turing receive in 1952?,He was chemically castrated after being convicted for homosexual acts.
+How did Turing die?,"From cyanide poisoning, possibly suicide or accidental."
+When did the UK government officially apologize for Turing’s treatment?,"In 2009, by PM Gordon Brown."
+What is the “Alan Turing law”?,A 2017 UK law that retroactively pardoned men convicted under old anti-homosexual laws.
+What honors were posthumously given to Turing?,"His portrait is on the £50 note, and many statues and awards bear his name."
+When and where was Alan Turing born?,"23 June 1912, Maida Vale, London."
+Where did Turing attend secondary school?,Sherborne School in Dorset.
+Who was Christopher Morcom to Turing?,A close friend and first love who deeply influenced him.
+How did Turing react to Morcom’s death?,He coped by focusing more on science and mathematics.
+What scholarship did Turing receive for college?,"An £80/year scholarship to King’s College, Cambridge."
+What did Turing’s undergraduate thesis prove?,A version of the central limit theorem.
+What was Turing’s first published paper?,"""Equivalence of left and right almost periodicity"" in 1937."
+What position did Turing hold at King’s College?,He was elected a Fellow and later served as a lecturer.
+What was the headmistress's comment about young Turing?,She called him a genius.
+Why did some Sherborne teachers criticize Turing?,They valued classical education over scientific pursuits.
+How did Turing get to Sherborne on the first day of school?,He cycled 60 miles from Southampton alone.
+What belief did Turing express about spirit and matter?,He believed the spirit is connected to the body and survives death.
+What is an algorithm?,An algorithm is a finite sequence of well-defined instructions used to solve a problem or perform a computation.
+"Who is considered the origin of the term ""algorithm""?","The term ""algorithm"" is derived from the Latinized name of Persian mathematician Al-Khwarizmi."
+How does an algorithm differ from a heuristic?,"An algorithm guarantees a correct result when followed, while a heuristic provides an approximate or practical solution without a guarantee."
+What is a randomized algorithm?,A randomized algorithm uses random input or random decisions during its process to produce a result.
+What ancient civilization provided the earliest evidence of algorithms?,"The Sumerians of ancient Mesopotamia provided the earliest evidence, including a division algorithm on a clay tablet from around 2500 BC."
+What are some early examples of algorithms in history?,"Examples include the Euclidean algorithm, Sieve of Eratosthenes, and Babylonian methods for astronomical calculations."
+Who is considered the first computer programmer?,Ada Lovelace is considered the first programmer for her work on Charles Babbage's Analytical Engine.
+What is the significance of the Turing machine?,The Turing machine is a mathematical model that formalized the concept of computation and algorithms.
+What is pseudocode?,"Pseudocode is a simplified, language-agnostic way to describe an algorithm without using specific syntax."
+What is the purpose of algorithm analysis?,"Algorithm analysis evaluates performance in terms of time, space, and other resources."
+What is Big O notation?,Big O notation describes the upper bound of an algorithm's time or space complexity as input size increases.
+What is the efficiency of a binary search compared to a linear search?,"Binary search has O(log n) time complexity, while linear search has O(n)."
+Can algorithms be patented?,"Algorithms alone are not patentable, but specific applications of them can be, as in Diamond v. Diehr."
+What design techniques are used for algorithms?,"Techniques include divide-and-conquer, dynamic programming, greedy methods, and backtracking."
+What is a structured program and why is it useful?,"A structured program uses control structures like SEQUENCE, IF-THEN-ELSE, and WHILE-DO to improve readability and correctness."
+How are algorithms implemented outside of software?,"Algorithms can be implemented in biological systems, electrical circuits, and mechanical devices."
+What does algorithmic efficiency refer to?,"It refers to the computational resources used by an algorithm, such as time and space."
+How is algorithmic efficiency analogous to engineering productivity?,"It focuses on minimizing resource use, just like improving productivity in continuous processes."
+Why can't time and space complexity be directly compared?,"Because they're different types of resources, and importance depends on the specific use case."
+What is the time complexity of bubble sort?,O(n²)
+What is the space complexity of bubble sort?,"O(1), meaning constant space usage."
+What is the time complexity of timsort?,O(n log n)
+What is the space complexity of timsort?,"O(n), meaning it uses memory proportional to the list size."
+Who emphasized time efficiency in computation as early as 1843?,Ada Lovelace
+What trade-off existed in early computing systems?,A trade-off between algorithm speed and memory usage.
+What did Donald Knuth say about efficiency in software engineering?,A 12% improvement should not be considered marginal.
+What makes an algorithm “efficient”?,It consumes acceptable computational resources for the input size.
+What notation is commonly used to describe algorithm complexity?,Big O notation
+Why might bubble sort be preferred for small datasets?,It may perform faster despite worse theoretical time complexity.
+What is the benefit of merge sort for large data sets?,It scales better with larger inputs due to better time complexity.
+What is a benchmark in algorithm analysis?,A method to assess and compare practical performance of algorithms.
+How do implementation factors affect algorithm efficiency?,"Language choice, compiler settings, and OS can all impact performance."
+Why are interpreted languages often slower than compiled ones?,"Interpreters process code at runtime, adding overhead."
+What are examples of parallel computing APIs?,"CUDA, TensorFlow, Hadoop, OpenMP, MPI"
+What challenge do differing CPU implementations present?,"The same instruction can vary in speed across processors, complicating optimization."
+Why is floating-point computation slow on some embedded systems?,"They often lack hardware support, requiring software emulation."
+What memory types are considered in space complexity?,"Registers, cache, RAM, virtual memory, secondary storage"
+What principle explains why algorithms fitting in cache run faster?,The principle of locality
+What are the types of locality in computing?,"Locality of reference, spatial locality, and temporal locality"
+What does cache-aware programming aim to do?,Optimize memory access to fit and utilize cache efficiently.
+How has available memory evolved from early computers to now?,From a few kilobytes to gigabytes—a massive increase in available RAM.
+What does Big O notation describe?,The asymptotic complexity of an algorithm based on input size.
+What performance metric is gaining importance due to environmental concerns?,"Power consumption, leading to interest in green computing."
+What is the analysis of algorithms?,"The analysis of algorithms is the process of determining the computational complexity, including the time, storage, or resources required for an algorithm, typically using functions that relate input size to execution steps."
+What is time complexity in algorithm analysis?,Time complexity refers to the amount of time an algorithm takes to execute as a function of the input size. It is often measured using Big O notation.
+What does Big O notation represent?,"Big O notation is used to describe the upper bound of an algorithm’s running time, providing an estimate of the worst-case scenario in terms of the input size."
+What are the different types of algorithmic behavior?,"Algorithms may exhibit best, worst, and average case behaviors, depending on the input size and conditions."
+What is an efficient algorithm?,An algorithm is considered efficient if its computational resources (time and space) grow slowly as the input size increases.
+Why is asymptotic analysis used in algorithms?,"Asymptotic analysis is used to estimate the performance of an algorithm for very large input sizes, focusing on how the time or space complexity grows as input size increases, independent of the specific implementation."
+What is the role of a model of computation in algorithm analysis?,"A model of computation provides a framework to analyze the efficiency of algorithms based on assumptions about the computational environment, like the time for operations or the abstraction of a Turing machine."
+What is the difference between empirical and theoretical analysis?,"Empirical analysis involves measuring the performance of an algorithm in real-world conditions, whereas theoretical analysis uses models and estimates to predict performance based on the input size, often expressed using Big O notation."
+How does binary search compare to linear search in terms of efficiency?,"Binary search is more efficient than linear search for large input sizes because it exhibits a logarithmic growth rate in execution time (O(log n)), whereas linear search exhibits a linear growth rate (O(n))."
+How do you evaluate the time complexity of an algorithm using Big O?,"The time complexity can be evaluated by analyzing the algorithm's behavior, identifying the highest-order term, and expressing it in Big O notation to reflect how the execution time increases with input size."
+What does a run-time complexity of O(n^2) indicate?,"An algorithm with a run-time complexity of O(n^2) has a time complexity that grows quadratically as the input size increases, meaning the time taken for larger inputs increases rapidly."
+How does the run-time of algorithms affect system performance?,"Inefficient algorithms can slow down system performance, taking too long to execute or using excessive computational resources, rendering the system unresponsive or unable to meet time constraints."
+How is empirical run-time data used to estimate the complexity of an algorithm?,"Empirical run-time data can be used to find the constant factors in an algorithm's time complexity by measuring the execution times at different input sizes and comparing them to identify patterns, like linear or quadratic growth."
+What is the significance of lower bounds in algorithm analysis?,"Lower bounds in algorithm analysis set a theoretical minimum on the performance of an algorithm. However, they are often based on restrictive models of computation, which may not always reflect real-world performance."
+What are hybrid algorithms and why are they useful?,"Hybrid algorithms, such as Timsort, combine different algorithms that are efficient in different scenarios (e.g., merge sort for large data, insertion sort for small data), to improve overall performance depending on the size of the input."
+What is the time complexity of an algorithm with exponential memory usage?,"An algorithm with exponential memory usage, such as O(2^n), grows very quickly and is often impractical for large data sizes, leading to excessive memory consumption."
+What is applied science?,"Applied science is the use of scientific methods to solve practical problems, often in fields like engineering and medicine."
+What are examples of applied science?,"Examples include genetic epidemiology, applied psychology, and criminology, using existing knowledge for practical purposes."
+What is the difference between applied and basic science?,"Applied science focuses on practical application, while basic science aims to develop theories and laws."
+What is applied research?,Applied research addresses specific problems by using existing theories and methodologies to generate practical solutions.
+How does applied research differ from basic research?,"Applied research solves practical issues, while basic research explores fundamental scientific questions."
+What are the challenges in applied research?,"Challenges include working with real-world constraints and potentially relaxing strict research protocols, such as random sampling."
+What is the role of transparency in applied research?,Transparency is crucial when adapting research protocols to ensure the integrity and reproducibility of results in applied research.
+How does applied research relate to human conditions?,"Applied research uses natural science to address human conditions, often using provisional frameworks to test hypotheses."
+How is applied research described in the Frascati Manual?,The Frascati Manual defines applied research as one of the three research forms alongside basic research and experimental development.
+What are some fields where applied research is important?,"Fields like criminology, engineering, and medical sciences apply research to solve real-world problems and improve systems."
+How is applied research used in criminology?,Applied research in criminology helps study criminal behavior and inform criminal investigations and policies.
+What does applied science involve in engineering?,"Engineering applies natural science, mathematics, and design to solve technical problems, increase productivity, and improve systems."
+What are the main branches of engineering?,"The main branches are chemical, civil, electrical, and mechanical engineering, each focusing on different applied science and mathematics areas."
+What fields of science do engineers use?,"Engineers use fields like thermodynamics, fluid mechanics, electromagnetism, and materials science in their work."
+How does applied science relate to medical sciences?,"Medical sciences apply biology and chemistry to medicine, such as in pharmaceutical research and clinical microbiology."
+What is a Bachelor of Applied Science (BASc)?,"A BASc is a professional degree focusing on applying engineering and science concepts, offered in fields like engineering and child studies."
+What is applied science in the UK's education system?,"Applied Science courses in the UK focus on practical, vocational skills and include more coursework than traditional science qualifications."
+How is applied science studied in the United States?,"Universities like William & Mary offer degrees in applied science, with research spanning neuroscience, materials science, and other fields."
+What is the focus of applied science at the University of Nebraska?,"It focuses on science, agriculture, and natural resources, with options like ecology, economics, and animal science."
+What is the Applied Sciences campus in New York City?,"The Applied Sciences campus, funded by a $100 million grant, is a collaborative project between Cornell-Technion on Roosevelt Island."
+What is an array in computer science?,"An array is a data structure consisting of elements of the same memory size, identified by an index or key."
+What is a linear array?,A linear array is a one-dimensional array where elements are stored sequentially in memory.
+What is the base address of an array?,The base address is the memory address of the first element in an array.
+How are multidimensional arrays stored in memory?,"Multidimensional arrays are stored either in row-major or column-major order, depending on the programming language."
+What is the difference between row-major and column-major order?,"In row-major order, elements in each row are stored in consecutive memory positions, while in column-major order, elements in each column are stored consecutively."
+What is the significance of array indexing starting from 0 in many programming languages?,"Zero-based indexing simplifies the implementation, where the subscript refers to an offset from the starting position of the array."
+What is a dynamic array?,"A dynamic array is an array that allows elements to be inserted or removed, with size that can grow or shrink."
+What is a dope vector in relation to arrays?,"A dope vector is a record that contains information about an array's dimensions, base address, and element size, facilitating array operations."
+What is the concept of spatial locality in arrays?,"Spatial locality refers to the property that elements stored consecutively in memory allow faster scanning, enhancing iteration performance."
+How does a dynamic array differ from a static array?,"A dynamic array allows resizing, while a static array has a fixed size once created."
+What is an associative array?,An associative array is a data structure that allows array-like functionality without significant storage overhead for sparse index values.
+How are elements accessed in a two-dimensional array using zero-based indexing?,"In a zero-based indexed two-dimensional array, elements are accessed using two indices, such as ar[i][j] where i is the row and j is the column."
+What is an Iliffe vector in the context of multidimensional arrays?,"An Iliffe vector is a one-dimensional array of pointers to arrays, used to represent jagged arrays with rows of different sizes."
+What is the time complexity of array-based data structures for insertion and deletion?,"Insertion and deletion at the end of a dynamic array take constant time, but at arbitrary positions, they require linear time."
+Why are arrays often preferred for implementing other data structures like stacks or queues?,"Arrays are space-efficient and allow quick access and manipulation of elements, making them ideal for implementing structures like stacks and queues."
+What is artificial intelligence?,"AI is the ability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, and decision-making."
+What are some high-profile AI applications?,"Examples include search engines (e.g., Google), recommendation systems (e.g., Netflix), virtual assistants (e.g., Siri), and autonomous vehicles (e.g., Waymo)."
+What is the goal of AI research?,"AI research aims to develop methods to enable machines to perform tasks that require human-like intelligence, such as learning, perception, and reasoning."
+What are the challenges of knowledge representation in AI?,"Challenges include the vastness of commonsense knowledge and the difficulty in representing sub-symbolic knowledge, which humans intuitively understand."
+What is machine learning?,Machine learning is the study of algorithms that allow programs to automatically improve their performance on a task based on experience.
+How does reinforcement learning work?,"In reinforcement learning, an agent learns to make decisions by receiving rewards for good actions and penalties for bad ones."
+What is natural language processing?,"NLP allows machines to understand, generate, and communicate in human languages, addressing tasks like speech recognition and machine translation."
+How does AI use perception?,"AI uses sensors like cameras and microphones to gather data and make inferences about the world, enabling tasks such as object recognition and facial detection."
+What is affective computing?,"Affective computing involves AI systems designed to interpret, process, or simulate human emotions to facilitate human-computer interaction."
+What is the challenge with virtual assistants in terms of emotional dynamics?,"They can create unrealistic perceptions of intelligence by appearing to understand emotions, but they lack true emotional awareness."
+What is artificial general intelligence (AGI)?,AGI refers to machines that can solve a wide variety of problems with versatility and breadth similar to human intelligence.
+What are state space and local search in AI?,"State space search involves exploring a tree of possible states to find a goal, while local search optimizes a problem by refining guesses incrementally."
+How does adversarial search apply to games?,"Adversarial search is used in games like chess, where the AI explores possible moves and countermoves to find a winning position."
+What is gradient descent in AI?,Gradient descent is a local search algorithm used in neural networks to optimize parameters by minimizing a loss function.
+What is evolutionary computation?,"Evolutionary computation improves solutions iteratively by mutating and recombining candidates, selecting the fittest for survival."
+What is swarm intelligence?,"Swarm intelligence involves distributed search processes inspired by natural systems, such as particle swarm and ant colony optimization."
+How is formal logic used in AI?,"Formal logic helps with reasoning and knowledge representation, using techniques like propositional and predicate logic."
+What is Bayesian network in AI?,"A Bayesian network is used for reasoning, learning, and perception, using probabilistic methods like Bayesian inference and decision networks."
+What are classifiers in AI?,"Classifiers are functions that categorize observations based on predefined examples, commonly used in machine learning."
+How do neural networks work as classifiers?,"Neural networks learn patterns by using layers of nodes (artificial neurons), adjusting weights during training to recognize input patterns."
+What is deep learning in AI?,"Deep learning uses multiple layers of neural networks to extract higher-level features, improving performance in tasks like image recognition."
+How do GPT models generate text?,"GPT models predict the next word or token based on pretraining on large text corpora, generating human-like text responses."
+What is reinforcement learning from human feedback (RLHF)?,RLHF improves GPT models by refining their responses based on human feedback to enhance usefulness and minimize errors.
+What does a class define in object-oriented programming?,"A class defines the shared aspects of objects, including state (variables) and behavior (methods)."
+What is the difference between object state and class state?,"Object state differs between instances, while class state is shared by all instances of the class."
+What does a class method do?,"A class method operates on the class itself, while an object method operates on an instance of the class."
+What is the purpose of inheritance in object-oriented programming?,"Inheritance allows a class to be based on another, inheriting its state and behavior with additional features."
+What is instantiation in the context of object-oriented programming?,"Instantiation is the process of creating an object from a class, allocating memory, and initializing its state."
+What is the difference between an abstract class and a concrete class?,"An abstract class cannot be instantiated directly, while a concrete class can be instantiated."
+What is the role of an interface in object-oriented programming?,An interface defines the methods and attributes that a class must implement without specifying the implementation.
+What is the significance of access specifiers in a class?,"Access specifiers control the visibility and accessibility of a class's members, such as methods and attributes."
+What is composition in object-oriented programming?,"Composition is when a class is composed of other classes, establishing a ""has-a"" relationship between them."
+What is multiple inheritance and how is it handled in modern languages?,"Multiple inheritance allows a class to inherit from more than one class, but many languages (e.g., Java) only allow single inheritance."
+What is a sealed class?,"A sealed class cannot be subclassed, ensuring that it cannot be extended or modified."
+What is a metaclass?,"A metaclass is a class whose instances are classes themselves, used to describe the structure of other classes."
+What is the primary focus of coding theory?,Coding theory studies the properties of codes and their fitness for applications like data compression and error correction.
+What are the four types of coding?,"The four types of coding are data compression, error correction, data transmission, and data storage."
+What does data compression do?,Data compression removes unwanted redundancy from data to transmit it more efficiently.
+How does error correction improve data transmission?,Error correction adds redundancy to data to make it more robust against disturbances in transmission.
+What is the significance of Claude Shannon's 1948 paper?,Shannon's paper established information theory and introduced the statistical model of communication.
+What is the binary Golay code used for?,The binary Golay code is an error-correcting code capable of correcting up to three errors in each 24-bit word.
+How did Richard Hamming contribute to coding theory?,"Richard Hamming invented Hamming codes, which are error-detecting and error-correcting codes."
+What is the Discrete Cosine Transform (DCT)?,"The DCT is a lossy compression algorithm used in formats like JPEG, MPEG, and MP3."
+What is the goal of source coding?,Source coding aims to reduce redundancy in the source data to represent it with fewer bits.
+What is the concept of entropy in source coding?,Entropy measures the uncertainty in a message and helps minimize redundancy in source coding.
+What are linear block codes?,"Linear block codes are codes where the sum of any two codewords is also a valid codeword, applied to source bits in blocks."
+How does convolutional coding differ from block coding?,"Convolutional coding processes input bits through a system with memory, providing greater implementation simplicity."
+What is the Viterbi algorithm used for?,The Viterbi algorithm is used to decode convolutional codes by finding the most likely path.
+What is cryptography in coding theory?,Cryptography involves techniques for secure communication and ensuring data confidentiality and integrity.
+What is line coding used for?,"Line coding represents digital signals for transmission, optimizing the signal for the physical channel."
+What is the role of ARQ codes in data transmission?,"ARQ codes add redundancy for error checking, prompting the sender to retransmit data if errors are detected."
+How is coding theory applied in mobile phone systems?,"In mobile phones, coding techniques like CDMA allow multiple users to transmit on the same radio channel simultaneously."
+What is group testing in coding theory?,Group testing uses codes to identify defective items or test subjects with minimal tests.
+What is computer programming?,It's the composition of sequences of instructions that computers follow to perform tasks.
+What is the role of high-level programming languages in programming?,They make code more intelligible to humans compared to machine code.
+What is the main focus of proficient programming?,"It involves knowledge of application domains, programming languages, algorithms, and formal logic."
+What is the difference between programming and software development?,"Programming refers to writing code, while software development includes testing, debugging, and system management."
+"Who coined the term ""compiler""?","Grace Hopper coined the term ""compiler."""
+When was the first computer program published?,It was published in 1843 by Ada Lovelace.
+What is the significance of the Jacquard loom?,It was a programmable device that used punched cards to change weaves in 1801.
+"What does ""readability"" in programming refer to?",It refers to how easily a human reader can understand the purpose and flow of the source code.
+What is the role of a debugger?,"It helps identify and fix defects in the code, improving program functionality."
+How did Ada Lovelace contribute to computer programming?,"She created the first algorithm intended to be executed by a machine, the Analytical Engine."
+What is computer science?,"Computer science is the study of computation, information, and automation, spanning theoretical and applied disciplines."
+What are the central topics in computer science?,Algorithms and data structures are central to computer science.
+What does the theory of computation study?,The theory of computation concerns abstract models of computation and solvable problem classes.
+What areas do cryptography and computer security focus on?,Cryptography and computer security focus on secure communication and preventing vulnerabilities.
+What is the focus of computer graphics and computational geometry?,They focus on generating images and solving problems related to geometric structures.
+What is the concern of programming language theory?,Programming language theory considers different ways to describe computational processes.
+What does database theory concern?,Database theory concerns the management of repositories of data.
+What is the aim of human-computer interaction?,It investigates the interfaces through which humans and computers interact.
+What is software engineering?,Software engineering focuses on the design and principles behind developing software.
+What does computer architecture describe?,Computer architecture describes the construction of computer components and computer-operated equipment.
+What is the focus of artificial intelligence and machine learning?,"They aim to synthesize goal-oriented processes like problem-solving, decision-making, and learning."
+What subfields fall under artificial intelligence?,Computer vision and natural language processing are key subfields of AI.
+Who is considered the first computer scientist?,Gottfried Leibniz is considered the first computer scientist due to his documentation of the binary number system.
+What did Charles Babbage contribute to computer science?,"Babbage designed the Difference Engine and Analytical Engine, foundational concepts for modern computers."
+Who is credited with writing the first algorithm for a computer?,Ada Lovelace wrote the first published algorithm tailored for implementation on a computer.
+What did Herman Hollerith invent?,"Herman Hollerith invented the tabulator, which used punched cards for statistical information processing."
+When did computer science start to become an academic discipline?,Computer science became a distinct academic discipline in the 1950s and early 1960s.
+Where was the first computer science degree program started?,The first computer science degree program was started at the University of Cambridge in 1953.
+"What was the term ""computer science"" first proposed?","The term ""computer science"" was proposed in 1956, and used in a 1959 article in Communications of the ACM."
+"What is ""datalogy""?","Datalogy is a term proposed by Peter Naur, reflecting the focus on data treatment rather than computer hardware."
+What is the primary question in computer science?,"The fundamental question is ""What can be automated?"""
+What is the P = NP? problem?,The P = NP? problem is an unsolved issue in theoretical computer science about the relationship between problems solvable in polynomial time and those verifiable in polynomial time.
+What does the study of algorithms and data structures focus on?,It focuses on commonly used computational methods and their efficiency.
+What is formal methods in computer science?,"Formal methods are mathematically-based techniques for the specification, development, and verification of software and hardware systems."
+What is scientific computing?,Scientific computing involves constructing mathematical models and using computers to analyze and solve scientific problems.
+What is the significance of the fast Fourier transform in computer science?,The lower bound on the complexity of fast Fourier transform algorithms is an unsolved problem in theoretical computer science.
+What is a computer scientist?,A computer scientist specializes in the academic study of computer science.
+What do computer scientists typically focus on?,They typically work on the theoretical side of computation.
+What are some areas of research for computer scientists?,"Algorithm and data structure design, software engineering, robotics, computer architecture, etc."
+What is the primary goal of computer scientists?,To develop or validate models to describe properties of computational systems.
+What degrees do most computer scientists hold?,"Most possess a PhD, M.S., or Bachelor's degree in computer science or related fields."
+What industries are computer scientists employed in?,"Software publishing, scientific research, universities, and IT consulting."
+How are computer scientists related to mathematicians?,"Computer science depends heavily on mathematics, often making computer scientists like mathematicians."
+What are the employment prospects for computer scientists?,Employment prospects are excellent due to rapid growth in computer systems design and software industries.
+Where do computer scientists often work?,"They often work in software publishing firms, research organizations, or universities."
+Can computer scientists transition into managerial roles?,"Yes, they can advance into managerial or project leadership positions in industry."
+What is the main goal of computer vision?,"To extract, analyze, and understand useful information from images or videos."
+How does computer vision relate to human vision?,It aims to mimic human visual understanding to guide appropriate actions.
+What types of data does computer vision handle?,"Video sequences, multi-camera views, 3D point clouds, and medical scans."
+What are some subfields of computer vision?,"Object detection, scene reconstruction, activity recognition, and image restoration."
+How did computer vision begin?,"In the 1960s as part of AI research, aiming to replicate human vision in robots."
+What distinguishes computer vision from image processing?,Image processing transforms images; computer vision interprets them for decisions or actions.
+What scientific fields contribute to computer vision?,"Geometry, physics, statistics, and learning theory."
+What is machine vision?,The application of computer vision in industrial automation for inspection and guidance.
+What was a major shift in computer vision in the 1990s?,Integration with computer graphics and the rise of statistical learning for face recognition.
+What impact did deep learning have on computer vision?,It significantly improved accuracy across tasks like classification and segmentation.
+How is physics related to computer vision?,It underlies image sensor design and explains light-surface interactions.
+What is the role of neurobiology in computer vision?,It inspired biologically plausible models like convolutional neural networks.
+What is the Neocognitron?,An early neural network model influenced by the human visual cortex.
+How is signal processing relevant to computer vision?,Many image analysis methods adapt 1D signal techniques to 2D image data.
+What is visual servoing?,A control method using computer vision to guide robotic movement.
+What is SLAM in computer vision?,Simultaneous Localization and Mapping for autonomous navigation.
+Give an example of computer vision in the military.,Target detection or autonomous missile guidance using visual input.
+How is computer vision used in autonomous vehicles?,"For obstacle detection, navigation, and mapping environments."
+What are medical applications of computer vision?,"Tumor detection, organ measurement, and image enhancement."
+What is photogrammetry?,"A field overlapping with computer vision, often used for 3D reconstruction."
+How is computer vision applied in agriculture?,Optical sorting of food by identifying undesirable items.
+What are tactile sensors in computer vision?,Devices using materials like rubber to detect surface imperfections.
+How are camera-in-silicon sensors useful?,They provide detailed tactile feedback for robotic hands.
+What are typical computer vision tasks?,"Acquiring, analyzing, and understanding digital images for decision-making."
+What is a computer?,A computer is a machine that can be programmed to perform arithmetic or logical operations automatically.
+What enables computers to perform a wide range of tasks?,Programs enable computers to perform diverse tasks.
+What does the term 'computer system' include?,"It includes hardware, operating system, software, and peripheral equipment."
+What devices commonly use computers as control systems?,"Devices like microwave ovens, remote controls, and industrial robots."
+How are computers related to the Internet?,"Computers power the Internet, linking billions of users."
+What were early computers mainly used for?,They were mainly used for calculations.
+What device helped with calculations in ancient times?,The abacus.
+What innovation marked a major leap in digital electronics post-WWII?,"The development of thermionic valve-based machines and later, transistors and microprocessors."
+What trend does Moore's Law describe?,It describes the doubling of transistor counts roughly every two years.
+What is a CPU?,"A CPU is a central processing unit, the core processing element of a computer."
+What are peripheral devices?,"Devices like keyboards, mice, and monitors that allow input and output."
+What did the term 'computer' originally refer to?,It referred to a human who performed calculations.
+Who were often employed as human computers in the 1940s?,"Women, due to lower wages."
+When did 'computer' begin to mean a calculating machine?,Around 1897.
+What was the earliest known mechanical analog computer?,The Antikythera mechanism.
+Who invented the planisphere?,Abū Rayhān al-Bīrūnī.
+What is the function of an astrolabe?,It calculates problems in spherical astronomy.
+What calculating tool was used in the late 16th century?,The sector.
+Who invented the slide rule?,William Oughtred.
+What was Pierre Jaquet-Droz known for inventing?,A programmable mechanical writing automaton.
+Who is considered the father of the computer?,Charles Babbage.
+What was Babbage’s proposed machine called?,The Analytical Engine.
+How did Babbage's Analytical Engine accept input?,Through punched cards.
+What key computer concepts were part of Babbage’s design?,"Arithmetic logic unit, control flow, loops, and memory."
+Who demonstrated a working part of the Analytical Engine?,"Henry Babbage, Charles Babbage’s son."
+Who introduced floating-point arithmetic and conditional branching?,Leonardo Torres Quevedo.
+What was the Electromechanical Arithmometer?,A device by Torres Quevedo to input and print arithmetic problems.
+What was the function of a differential analyser?,To solve differential equations by mechanical integration.
+What key idea did Claude Shannon introduce in 1937?,Using Boolean algebra for switching circuit analysis.
+What was the Z3 computer?,"The first programmable, fully automatic digital computer, made by Konrad Zuse in 1941."
+What is computing?,"Computing is any goal-oriented activity involving computing machinery, including algorithmic processes, hardware, and software development."
+What disciplines fall under computing?,"Disciplines include computer engineering, computer science, cybersecurity, data science, information systems, IT, and software engineering."
+What was the earliest known computing tool?,"The abacus, invented in Babylon between 2700 and 2300 BC."
+Who proposed the first use of digital electronics in computing?,C. E. Wynn-Williams in 1931.
+Who introduced electronics for Boolean algebra operations?,Claude Shannon in 1938.
+What breakthrough occurred at Bell Labs in 1947?,The invention of the point-contact transistor by Bardeen and Brattain under William Shockley.
+What is the significance of the MOSFET in computing?,"It enabled high-density integrated circuits, driving the microcomputer revolution."
+What is a computer program?,A set of instructions that a computer executes to perform tasks.
+What is software?,Software is a collection of programs and data that instruct a computer on what to do.
+What are the types of system software?,"Operating systems, utilities, drivers, window systems, and firmware."
+What is application software?,Software designed to help users perform specific tasks like editing documents or playing media.
+What is a computer network?,A system of interconnected hardware and computers sharing resources and data.
+What is the Internet Protocol Suite?,"A set of protocols for internetworking, enabling data communication between networks."
+What is computer programming?,"The process of writing, testing, and maintaining the source code of programs."
+Who is a programmer?,A person who writes and maintains computer software.
+What is the software industry?,"Businesses involved in developing, maintaining, and selling software and services."
+What does computer engineering encompass?,It combines electrical engineering and computer science to develop hardware and software.
+What is software engineering?,A disciplined approach to the design and maintenance of software systems.
+What is computer science?,The scientific and practical approach to computation and computational systems.
+What is cybersecurity?,Protection of systems and networks from digital attacks and data breaches.
+What is data science?,A field that extracts insights from data using computing tools and statistical methods.
+What is information systems (IS)?,"The study of systems that collect, process, and distribute data in organizational settings."
+How does IS differ from CIS?,"IS emphasizes functionality and business use, while CIS focuses more on computing and algorithms."
+What is information technology (IT)?,"Use of computers and telecom to store, retrieve, and process data, especially in business."
+What is DNA-based computing?,A research area using DNA molecules for data processing and storage.
+What is quantum computing?,"A type of computing using quantum bits, offering potentially vast computational power."
+What is spintronics?,A technology that uses the spin of electrons for data processing and storage.
+What is cloud computing?,On-demand access to computing services like servers and software over the internet.
+What is concurrency in computer science?,Concurrency is the ability of a system to execute multiple tasks simultaneously or through time-sharing.
+How does concurrency improve computing systems?,"It enhances responsiveness, throughput, and scalability."
+Why can outcomes in concurrent systems be indeterminate?,Due to multiple possible execution paths and interaction between tasks.
+What are some issues caused by shared resource usage in concurrency?,Deadlocks and resource starvation.
+What are key concerns in designing concurrent systems?,"Coordinating execution, data exchange, memory allocation, and scheduling."
+Who proposed one of the earliest concurrency models?,Carl Adam Petri with Petri nets in the 1960s.
+What are some uses of concurrency models?,"They help with reasoning, design, implementation, proof, testing, and simulation."
+What are two ways concurrency models can differ?,Mechanisms like message passing vs. shared memory and their purpose in the development cycle.
+What is the goal of unified models of concurrency?,To provide a common framework across different concurrency theories.
+What model did Lee and Sangiovanni-Vincentelli propose?,The tagged-signal model for defining denotational semantics.
+How can category theory help with concurrency?,It provides a unified understanding of different concurrency models.
+What does the Concurrency Representation Theorem do?,It represents closed concurrent systems using the actor model.
+What is ⊥S in the context of the actor model?,It’s the initial behavior used to approximate a system's full behavior.
+How can temporal logic assist in concurrent systems?,By allowing assertions about sequences of system states or actions.
+Give examples of temporal logics used in concurrency.,"Linear Temporal Logic, Computation Tree Logic, and Hennessy–Milner Logic."
+What is the main application of temporal logics?,Writing specifications for concurrent systems.
+How is concurrent programming different from parallel programming?,"Concurrent programming involves dynamic communication, while parallel programming uses structured patterns."
+What are the main goals of concurrent programming?,"Correctness, performance, and robustness."
+Why are operating systems and databases designed with concurrency?,To operate indefinitely and recover from failures without crashing.
+What is transparent concurrency?,A design where resource competition is hidden from the programmer.
+Why are arbiters used in concurrent systems?,To control access to shared resources.
+What issue does arbitration introduce in concurrency?,"It causes unbounded nondeterminism, complicating model checking."
+What is a problem with unbounded nondeterminism?,It leads to state explosion or infinite state spaces.
+What are examples of deterministic concurrency models?,Coprocesses and models where threads yield control explicitly.
+What is the main objective of control theory?,To develop algorithms that drive a system to a desired state while minimizing error and maintaining stability.
+What role does a controller play in a control system?,It compares the process variable to the set point and applies corrective feedback to minimize error.
+What is meant by SP-PV error?,It is the difference between the set point (SP) and process variable (PV).
+What is the purpose of block diagrams in control theory?,To visually represent system relationships using transfer functions.
+Who introduced the first theoretical basis for control systems?,"James Clerk Maxwell, with his 1868 paper on governors."
+What is the Routh–Hurwitz theorem used for?,To determine system stability using differential equations.
+What significant control system development occurred during WWII?,Irmgard Flügge-Lotz developed discontinuous automatic control systems.
+Give an example of a mechanical stability enhancement method.,Ship stabilizers using gyroscopically controlled fins.
+How is control theory applied in economics?,By modeling market behavior to regulate and extract profit.
+What is the British Standards Institution's definition of a closed-loop system?,A system using feedback to minimize deviation from the set point.
+What is the main difference between open-loop and closed-loop systems?,Closed-loop systems use feedback; open-loop systems do not.
+What real-life system uses PID control for stability?,Cruise control in a vehicle.
+What are the two branches of control theory?,Classical control theory and modern control theory.
+How does modern control theory differ from classical?,"It uses state-space models and handles MIMO systems, unlike classical theory."
+What is a PID controller?,"A type of feedback controller using proportional, integral, and derivative control."
+What is meant by state-space representation?,A time-domain model representing system dynamics using matrices.
+What does SISO stand for?,Single-Input Single-Output.
+What are common time-domain specifications in control design?,"Percent overshoot, settling time, and steady-state error."
+What makes modern control suitable for aircraft design?,It handles multiple inputs and outputs and complex dynamics.
+What is Lyapunov stability?,A system's tendency to return to equilibrium without oscillations.
+What condition must transfer function poles meet for stability?,All poles must have negative real parts (continuous-time case).
+What do Bode and Nyquist plots help analyze?,System stability and frequency response.
+What is controllability in control systems?,The ability to drive a system to a desired state using inputs.
+What is observability?,The ability to infer internal system states from outputs.
+What does it mean if a system is not controllable or observable?,That part of the system cannot be influenced or measured effectively.
+What is a stabilizable state?,A non-controllable state that is stable on its own.
+What is a detectable state?,A non-observable state that does not affect system stability.
+How can unobservable/uncontrollable systems be improved?,By adding actuators and sensors.
+What is the goal of a good control strategy?,To ensure closed-loop stability and desired dynamic behavior.
+What is the drawback of poor controller selection?,It can destabilize an otherwise stable system.
+What is reinforcement learning (RL)?,RL is an area of machine learning focused on how an agent should act to maximize a reward signal in a dynamic environment.
+How does RL differ from supervised learning?,RL does not require labeled input-output pairs and does not need sub-optimal actions to be explicitly corrected.
+What is the exploration-exploitation dilemma?,It's the balance between exploring new possibilities and exploiting known knowledge to maximize cumulative rewards.
+What is a Markov decision process (MDP)?,"MDP is a model where an agent interacts with an environment, observing states, taking actions, and receiving rewards."
+What is the goal of a reinforcement learning agent?,To learn an optimal policy that maximizes the cumulative reward over time.
+What does full observability mean in reinforcement learning?,It means the agent directly observes the entire current state of the environment.
+What is the difference between exploration and exploitation in RL?,"Exploration involves trying new actions, while exploitation involves choosing the action that maximizes expected reward."
+What is the ε-greedy strategy in RL?,The ε-greedy strategy chooses actions with the best long-term reward most of the time but explores randomly with probability ε.
+What is the state-value function in reinforcement learning?,It represents the expected cumulative reward for an agent starting from a given state and following a specific policy.
+How does reinforcement learning handle large environments?,By using samples to optimize performance and function approximation to manage large state-action spaces.
+What is the Monte Carlo method in RL?,A method that averages sample returns from actual or simulated experience to estimate value functions without needing the full dynamics of the environment.
+How do temporal difference methods differ from Monte Carlo methods?,"TD methods use the recursive Bellman equation for incremental updates, while Monte Carlo methods average complete returns from episodes."
+What is Q-learning in reinforcement learning?,Q-learning is a model-free reinforcement learning algorithm that learns the value of actions in states to find an optimal policy.
+What is the role of the discount factor γ in RL?,The discount factor γ determines how much future rewards are valued relative to immediate rewards.
+What is reverse engineering?,"Reverse engineering is the process of understanding how a device, process, or system works by analyzing its components and functions with little prior knowledge."
+What are the three basic steps in reverse engineering?,"The three basic steps are information extraction, modeling, and review."
+How can reverse engineering be used in software development?,"It helps in understanding source code, improving software, detecting bugs, and eliminating malicious code."
+What fields apply reverse engineering?,"Fields like computer, mechanical, electrical, software, aerospace engineering, and even systems biology use reverse engineering."
+What is software reverse engineering used for?,"It is used to analyze and improve software, detect vulnerabilities, and understand source code for maintenance."
+How does reverse engineering help in 3D modeling?,It helps create 3D virtual models of physical objects using measurements from scanning technologies.
+What is redocumentation in reverse engineering?,Redocumentation involves creating a new representation of the code to make it easier to understand.
+What is the role of reverse engineering in PCB analysis?,"It helps recreate fabrication data for PCBs, discover design principles, and upgrade old PCBs."
+How is reverse engineering applied in cryptanalysis?,"It is used to find vulnerabilities in cryptographic algorithms, such as symmetric or public-key encryption."
+What does reverse engineering of software entail?,"It involves analyzing software to deduce its design and functionality, often without access to the original source code."
+How is reverse engineering used in product development?,"It helps businesses understand competitors' products, assess patent infringements, and create interoperable products."
+How does reverse engineering relate to security?,"It is used to identify vulnerabilities in systems, including detecting malicious code and creating exploits."
+What is hybrid modeling in reverse engineering?,"It combines geometric and freeform surfaces to create accurate 3D models, often used for complex objects like engine parts."
+Can reverse engineering be used for competitive analysis?,"Yes, companies use reverse engineering to analyze competitors' products and gain insights into their design and functionality."
+What is the significance of reverse engineering in malware analysis?,Malware developers use reverse engineering to find system vulnerabilities and create malicious software that exploits them.
+How does reverse engineering contribute to gene regulatory network understanding?,"It helps decipher the structure and function of gene networks, critical for fields like cancer research."
+What is robotics?,"Robotics is the interdisciplinary study of designing, constructing, operating, and using robots. It involves fields like mechanical engineering and computer science."
+What is the goal of most robotics?,"The goal is to design robots that help humans, often in hazardous, repetitive, or unpleasant tasks."
+What is an example of robots used in hazardous environments?,"Robots are used to find survivors in unstable ruins or explore space, mines, and shipwrecks."
+"What are ""assembly robots""?",These robots are designed for assembly tasks and may not be adaptable for other applications.
+"What is a ""welding robot""?","A welding robot is an integrated system for welding, combining a robot manipulator with equipment like welding tools and material handling facilities."
+What types of actuators are commonly used in robots?,"Electric motors (brushed and brushless DC motors) and linear actuators powered by electricity, compressed air, or hydraulics are commonly used."
+What is a pneumatic actuator?,"A pneumatic actuator is powered by compressed air, typically used for moving parts in robots."
+What is a series elastic actuator (SEA)?,"SEA uses intentional elasticity to improve safety and energy efficiency, especially in robots interacting with humans or during collisions."
+What are pneumatic artificial muscles?,"These are tubes that expand when air is forced inside them, acting as muscles in some robot applications."
+What types of sensors are used in robots?,"Robots use sensors like lidar, radar, sonar, and tactile sensors to gather environmental and internal information for tasks and safety."
+"What is the function of a ""gripper"" in robotics?","A gripper is an end-effector that picks up and releases objects. It can be simple, like two fingers, or more complex, like a human-like hand."
+What are some examples of end-effectors used in robots?,"Examples include mechanical grippers, suction cups, and humanoid hands like the Shadow Hand or Robonaut hand."
+What does the control of a robot involve?,"Robot control involves perception (sensing), processing (calculating responses), and action (executing movements or forces with actuators)."
+"What is ""sensor fusion"" in robotics?",Sensor fusion combines data from multiple sensors to estimate parameters like the position of the robot’s parts or objects in the environment.
+What is cognitive modeling in robotics?,"Cognitive models help robots reason about their actions by representing the robot, the world, and their interactions, aiding in decision-making tasks like motion planning."
+"What is a ""balancing robot""?","A balancing robot uses sensors like gyroscopes to detect falls and adjust its movements, often seen in one-wheeled robots or systems like the Segway."
+How does a zero moment point (ZMP) algorithm help robots walk?,"ZMP keeps inertial forces balanced with the floor reaction force, preventing the robot from falling over while walking."
+What is dynamic walking in robots?,"Dynamic walking algorithms allow robots to move efficiently, using small hops to maintain balance, demonstrated in robots like those from the MIT Leg Lab."
+"What is the role of ""end-effectors"" in robotic manipulation?","End-effectors like grippers or hands interact with the environment to manipulate objects, whether picking, modifying, or moving them."
+How do snake robots move?,"They mimic the way real snakes move, enabling them to navigate confined spaces, such as collapsed buildings."
+What is computer vision in robotics?,"It involves robots processing and interpreting visual data, such as images or video, to perform tasks like navigation or object recognition."
+What is scientific modeling?,"It is the process of creating models to represent empirical objects and phenomena to better understand, define, and simulate them."
+Why is scientific modeling important?,"It simplifies complex systems to help scientists understand, quantify, and simulate real-world phenomena."
+What types of models are used in scientific modeling?,"Conceptual, operational, mathematical, computational, and graphical models."
+What is the role of models in science?,"Models help describe, predict, and simulate phenomena, playing a key role in scientific discovery and analysis."
+"What are in silico, in vivo, and in vitro models?","In silico models are computer simulations, in vivo are living models like lab rats, and in vitro are models created in a laboratory setting."
+What is a simulation in scientific modeling?,"A simulation is the implementation of a model to test or analyze phenomena, often when direct experiments are impractical."
+How does simplification affect scientific models?,"Simplification abstracts away less relevant details, focusing on key aspects needed for the task at hand."
+What is a discrete system model?,A discrete system model changes variables at separate points in time.
+What is a continuous system model?,A continuous system model changes variables continuously over time.
+How do assumptions affect the accuracy of models?,A model’s accuracy depends on the validity of its assumptions; incorrect assumptions lead to inaccurate predictions.
+How are models evaluated?,Models are evaluated based on their consistency with empirical data and their ability to make accurate predictions.
+What is the role of visualization in scientific modeling?,"Visualization helps communicate abstract or complex ideas clearly using images, diagrams, or animations."
+What is space mapping in engineering optimization?,Space mapping is used to align coarse and fine models of varying complexity to optimize without expensive computations.
+What is the significance of scientific modeling in defense?,"Modeling and simulation play a central role in defense development, aiding in analysis, experimentation, and verification."
+How have books and magazines influenced scientific modeling?,The increasing number of books and journals has fostered the growth and discussion of scientific modeling methods and applications.
+What is a security hacker?,A security hacker explores methods to breach defenses and exploit weaknesses in computer systems or networks.
+What motivates hackers?,"Hackers may be motivated by profit, protest, information gathering, challenge, recreation, or system evaluation."
+"What is the controversy surrounding the term ""hacker""?","The controversy is about whether ""hacker"" refers to someone with advanced computer knowledge or those who break into systems (black hats)."
+What is the hacker subculture?,"The hacker subculture, also known as the ""computer underground,"" evolved from phreaking and BBS scenes in the 1960s and 1980s."
+"What is the significance of the film ""Tron""?","The 1982 film ""Tron"" used the term ""hacking"" to describe breaking into a computer system."
+How did the media portray hackers in the 1980s?,"The media, especially after the 1983 WarGames film, portrayed hackers as a national security threat, especially with incidents like The 414s."
+What is the Hacker Manifesto?,"The Hacker Manifesto, published in 1986, discusses the moral conflicts in hacking and the hacker identity."
+What are white hat hackers?,White hat hackers are ethical hackers who identify and fix security flaws legally and for non-malicious purposes.
+What is a black hat hacker?,A black hat hacker violates computer security for malicious reasons or personal gain.
+What is a grey hat hacker?,"Grey hat hackers may exploit security flaws for ideological reasons, sometimes notifying system administrators of vulnerabilities."
+What is the role of a script kiddie?,A script kiddie is an unskilled hacker who uses automated tools created by others to break into systems.
+What is a hacktivist?,"A hacktivist uses hacking to publicize a social, political, or ideological message."
+How are hackers categorized?,"Hackers are categorized as white hats, black hats, grey hats, or script kiddies based on their motives and methods."
+What is the impact of ransomware attacks?,"Ransomware attacks, often involving criminal organizations, have become a significant threat, demanding payments in cryptocurrency."
+"What is a ""blue hat"" hacker?",A blue hat hacker is someone who tests systems for security flaws before they are launched.
+What is hacktivism?,"Hacktivism is the use of hacking to promote a social, ideological, or political cause."
+What is 1337speak?,"1337speak is a slang developed in the computer underground, often used by hackers to conceal their identities."
+What is the Computer Fraud and Abuse Act?,The Computer Fraud and Abuse Act criminalizes unauthorized access or damage to protected computers in the U.S.
+What is set theory?,"Set theory is a branch of mathematical logic that studies sets, which are collections of objects."
+Who is considered the founder of modern set theory?,Georg Cantor is commonly considered the founder of modern set theory.
+What is naive set theory?,Naive set theory refers to the informal set systems studied before the discovery of paradoxes like Russell's paradox.
+What was a key discovery by Georg Cantor in set theory?,"Georg Cantor discovered that the set of all real numbers is uncountable, meaning it cannot be listed."
+What paradoxes were found in naive set theory?,"Russell's paradox, Cantor's paradox, and the Burali-Forti paradox are examples of paradoxes found in naive set theory."
+What is Zermelo-Fraenkel set theory (ZF)?,"Zermelo-Fraenkel set theory is an axiomatic system for set theory, widely studied and used as a foundation for mathematics."
+What does Cantor's theorem state?,"Cantor's theorem states that the power set of any set is strictly larger than the set itself, even for infinite sets."
+What is a cardinal number in set theory?,"A cardinal number is a concept introduced by Cantor to represent the size of a set, used in comparing the sizes of infinite sets."
+What is the von Neumann universe in set theory?,"The von Neumann universe is a cumulative hierarchy of pure sets, with each set assigned a rank based on its nesting level."
+What is a proper subset?,A proper subset is a set that is a subset of another set but not equal to it.
+What is the empty set?,"The empty set is a set that contains no elements, denoted as {} or ∅."
+What is the power set of a set?,"The power set of a set A is the set of all possible subsets of A, denoted P(A)."
+What is Russell's paradox?,"Russell's paradox arises from the set of all sets that are not members of themselves, leading to a contradiction."
+What is the main focus of combinatorial set theory?,"Combinatorial set theory extends finite combinatorics to infinite sets, studying cardinal arithmetic and extensions of Ramsey's theorem."
+What does fuzzy set theory introduce to set membership?,"Fuzzy set theory allows for degrees of membership, meaning an object can belong to a set with a value between 0 and 1 rather than just being a member or not."
+What is social computing?,"Social computing is the intersection of social behavior and computational systems, aiming to create or recreate social contexts through technology."
+How does social computing support human interactions?,"It makes socially produced information available to users, influencing decision-making and behavior through systems like reviews and recommendations."
+What are examples of social software?,"Examples include blogs, email, instant messaging, social networks, wikis, and social bookmarking platforms."
+How does social computing rely on human behavior?,"Human behavior influences decisions based on social context, such as choosing a crowded restaurant or crossing the street when others do."
+"What is ""Enterprise 2.0"" in the context of social computing?","""Enterprise 2.0"" refers to the use of social computing within corporate intranets, enhancing collaboration and networking."
+What is crowdsourcing in social computing?,"Crowdsourcing involves group collaboration, either paid or volunteer, to produce goods or services, using platforms like Amazon Mechanical Turk."
+How has social media evolved in social computing?,"Social media has evolved from text-based interaction to include multimedia like pictures, videos, and GIFs, enhancing user engagement and expression."
+What role does social computing play in online dating?,"It facilitates interaction on platforms like OkCupid and eHarmony, helping people form relationships based on common interests."
+What is collective intelligence in social computing?,"Collective intelligence involves group collaboration to gain knowledge through social interaction, enhancing the understanding of group behaviors."
+How has Microsoft contributed to social computing research?,"Microsoft focuses on user-centered design and prototyping, developing software to improve social interactions in computing environments."
+What is the role of a software architect?,"A software architect is responsible for high-level design decisions regarding system structure and behavior, ensuring alignment with business requirements."
+How does a software architect address uncertainties?,"They deal with uncertainties by deciding the size of architectural components, which significantly impact the system's performance and behavior."
+What approach do Neal Ford and Mark Richards propose?,"They suggest an iterative approach for refining architectural components, involving continuous refinement as teams better understand system behavior."
+How does the iterative approach help software architects?,It helps architects make informed decisions by continuously refining architectural choices as they gain a more nuanced understanding of the system.
+What are architectural anti-patterns?,"Architectural anti-patterns are common pitfalls in decision-making, where resolving one problem may lead to the emergence of another."
+What is software deployment?,"Software deployment involves activities that make a software system available for use, either on the producer or consumer side."
+Why is deployment to consumers difficult?,Deployment to consumers is difficult because the target systems are diverse and unpredictable.
+How does Software as a Service (SaaS) simplify deployment?,"SaaS simplifies deployment by deploying only to dedicated servers, typically under the producer's control."
+What challenges exist in defining precise deployment procedures?,"Every software system is unique, so precise deployment processes cannot be defined and must be customized based on specific requirements."
+How was software deployment handled in the past with large computers?,"In the past, software was often bundled with hardware and required costly visits by systems architects for installation."
+How did the development of microcomputers change software deployment?,"The development of microcomputers in the 1980s led to software being distributed via cartridges, floppy disks, optical media, and the internet, allowing customers to deploy it themselves."
+What is continuous delivery?,"Continuous delivery is a deployment method that allows software to be deployed to a large number of customers quickly and flexibly, often determined by the supplier."
+What are blue-green deployment and canary release?,Blue-green deployment and canary release are deployment strategies that help manage software releases and minimize risks.
+How has the internet impacted software deployment?,"The internet allowed for faster deployment, leading to more frequent and agile updates, such as continuous delivery."
+What is the role of end-users in software deployment for desktop systems?,"End-users often become ""software deployers"" when they install software on their machines."
+What is software design?,Software design is the process of conceptualizing how a software system will work before it is implemented or modified.
+What does software design involve?,"Software design involves problem-solving and planning, including both high-level architecture and low-level component and algorithm design."
+When does software design occur in the waterfall development process?,Software design occurs after requirements specification and before coding in the waterfall development process.
+What factors contribute to successful software design?,"Creativity, past experience, a sense of what makes ""good"" software, and a commitment to quality are key success factors for software design."
+How can the software design process be compared to architecture?,"Software design can be compared to an architect's plan for a house, with high-level plans representing the overall system and lower-level plans detailing specifics."
+What is the iterative approach to software design?,The iterative approach involves continuous refinement as teams develop a more nuanced understanding of system behavior and requirements.
+What is software requirements analysis (SRA)?,SRA is part of the software development process that lists specifications used in software engineering to break down problems into smaller tasks.
+What artifacts can be produced during the design process?,"Artifacts may include flow charts, use cases, pseudocode, UML models, and other fundamental modeling concepts."
+What principles guide software design?,"Principles include abstraction, encapsulation, modularization, and hierarchy, often referred to as PHAME (Principles of Hierarchy, Abstraction, Modularisation, and Encapsulation)."
+How do design patterns aid in software design?,"Design patterns are reusable solutions to common problems, which can increase development velocity."
+What is the difficulty of designing software before implementation?,Designing software prior to implementation can be challenging due to unanticipated questions and insights that arise during the implementation phase.
+What is the software development life cycle (SDLC)?,SDLC is the process of planning and managing software development by dividing work into smaller steps or sub-processes to improve design and product management.
+What methodologies are commonly used in software development?,"Common methodologies include agile, waterfall, prototyping, iterative and incremental development, spiral development, and rapid application development."
+What is the purpose of the software development life cycle?,"The purpose is to develop information systems in a structured, methodical way, ensuring each phase is carried out sequentially from inception to delivery."
+What is the first phase in the custom software development process?,"The first phase is requirements gathering and analysis, which involves understanding the client's needs, features, and scope through discussions and interviews."
+What happens in the planning and design phase?,"The development team creates a comprehensive project plan, including timelines, resource allocation, and software architecture, while considering UI/UX design."
+What is involved in the development phase?,"The development phase involves coding, testing, and debugging the software. Agile methodologies like scrum or kanban may be used for flexibility and collaboration."
+What is the role of testing and quality assurance in software development?,"Testing ensures the software’s reliability, performance, and security by using techniques like unit testing, integration testing, and user acceptance testing."
+What happens during the deployment and implementation phase?,"The software is deployed, data migration is performed if needed, and users are trained with supporting documentation to ensure smooth transition and usage."
+What is the importance of maintenance and support?,"Maintenance ensures ongoing software updates, bug fixes, and security patches. Support addresses user queries and enhances software performance over time."
+What is agile software development?,"Agile is an iterative software development approach emphasizing collaboration, flexibility, and continuous feedback to refine and deliver software progressively."
+What is the waterfall model?,"The waterfall model is a sequential development approach where each phase must be completed before moving to the next, often criticized for its inflexibility."
+What is the spiral model in software development?,"The spiral model combines aspects of the waterfall model and rapid prototyping, emphasizing iterative risk analysis for large-scale complex systems."
+What is the Shape Up approach in software development?,"Shape Up is a methodology introduced by Basecamp that focuses on cycles, appetite, and betting instead of sprints or velocity tracking, targeting remote teams."
+What is the role of prototyping in software development?,Prototyping creates incomplete versions of software to explore solutions and refine requirements iteratively.
+What is software development?,"It is the process of designing and implementing a software solution to meet user needs, including tasks like requirements analysis, design, testing, and release."
+What does software development involve?,"It involves various skills like programming, testing, documentation, graphic design, user support, and tools like IDEs and version control."
+What is the difference between programming and software development?,"Software development encompasses more than just coding; it includes analysis, design, testing, and project management."
+What are common methodologies in software development?,"Approaches can be sequential or iterative, with iterative methods reducing risk and improving quality."
+What is shift-left testing?,It is a practice where testing occurs earlier in the development process to catch issues like bugs and security vulnerabilities early.
+What is the Software Development Life Cycle (SDLC)?,"It is a systematic process used to develop software applications, including phases like requirements gathering, design, and testing."
+How do software ideas get evaluated?,"They are assessed for economic feasibility, compatibility with current products, and marketing fit before development begins."
+What is the role of requirements analysis in software development?,It captures the business needs and translates them into a detailed specification for developers to follow.
+What is object-oriented programming in software design?,"It focuses on creating reusable components through modular design, often using patterns like model-view-controller."
+What are the phases of software testing?,"Testing includes debugging, code reviews, stress testing, load testing, and integration testing."
+What is test-driven development (TDD)?,It involves writing tests before the actual code to ensure the software works as expected.
+What does quality assurance entail in software development?,"QA tests the software's accuracy, including stress, integration, and compatibility checks."
+How does version control help in software development?,"It manages changes to the code, keeps backups of modified files, and handles conflicts when multiple developers are working on the same project."
+What is an Integrated Development Environment (IDE)?,"It is a tool that supports software development with features like automated compiling, debugging, and version control integration."
+What are fitness functions in software development?,They are automated tests that ensure new developments comply with established standards and constraints.
+What is software engineering?,"It is a branch of computer science and engineering focused on designing, developing, testing, and maintaining software applications."
+When did software engineering become a recognized field?,Software engineering was recognized as a separate field of engineering in the 1960s.
+What issues were faced in the development of software engineering in the past?,"Problems included software being over budget, exceeding deadlines, requiring extensive debugging, and failing to meet consumer needs."
+"Who coined the term ""software engineering""?","The term appeared in 1965 in ""Computers and Automation"" and was later formalized by Anthony A. Oettinger in 1966."
+What was the NATO conference about in 1968?,The NATO conference in 1968 addressed issues in software development and established guidelines and best practices.
+What is the Software Engineering Body of Knowledge (SWEBOK)?,"SWEBOK is a collection of modern best practices for software engineering, published by the ISO/IEC JTC 1/SC 7 subcommittee."
+What does software design involve?,"Software design involves making high-level plans for the software, and it may be divided into levels for implementation."
+What is software maintenance?,"Software maintenance involves supporting the software after its release, including error correction, optimization, and feature enhancement."
+How much of the project cost does maintenance typically consume?,Maintenance takes up 40% to 80% of the project cost.
+What is the role of software testing?,Software testing verifies that the code behaves as designed and ensures it is ready for further testing stages.
+What is the Capability Maturity Model Integration (CMMI-DEV)?,CMMI-DEV is a framework that defines how the U.S. Government evaluates the abilities of a software development team.
+What is the focus of requirements engineering?,"Requirements engineering focuses on eliciting, analyzing, specifying, and validating software requirements, including functional, non-functional, and domain requirements."
+What is the difference between functional and non-functional requirements?,"Functional requirements describe expected behaviors, while non-functional requirements define issues like portability, security, and scalability."
+What is the IEEE Computer Society's SWEBOK?,"The SWEBOK outlines the knowledge that software engineers are expected to master, covering all aspects of software engineering."
+What percentage of software engineers have degrees in computer science?,"Half of software engineers today have degrees in computer science, information systems, or information technology."
+What impact did outsourcing have on software engineering?,"Outsourcing led to a shift in software development to countries with lower labor costs, impacting job availability and work dynamics."
+How do professional certifications benefit software engineers?,Certifications like CSDP and CSDA validate expertise in software development and increase employability.
+What is the role of software engineers in global development teams?,"Software engineers may work in distributed teams across different time zones, improving operational efficiency but facing challenges like communication and cultural differences."
+What is a software framework?,"A software framework is an abstraction that provides generic functionality, allowing user-written code to customize specific application features."
+How does a software framework help in development?,"It facilitates development by offering reusable tools like libraries, APIs, and compilers, reducing the need for low-level coding."
+What is the main advantage of using a software framework?,"It allows developers to focus on application-specific code rather than standard system details, speeding up development."
+"What is ""code bloat""?","""Code bloat"" refers to the increased size of programs when frameworks add extra functionality, sometimes including unused features."
+Why might learning a new framework be time-consuming?,"New frameworks can have complex APIs, requiring extra time to learn, which may offset the time savings in development."
+What happens once a framework is learned?,"Future projects using the framework can be completed faster and more easily, as familiarity increases productivity."
+"What is the ""one-size-fits-all"" solution in frameworks?","It refers to the idea that a framework should work for a variety of projects, but may not always be efficient or concise in every case."
+"What are ""frozen spots"" and ""hot spots"" in a software framework?","Frozen spots are unchanged architecture components, while hot spots are areas where developers can add specific functionality."
+What design pattern is used in frameworks?,"The Template Method Pattern is used, where invariant methods provide default behavior and hook methods allow for custom behavior."
+How do frameworks follow the Hollywood Principle?,"Frameworks use the principle ""Don't call us, we'll call you,"" meaning predefined framework classes call user-defined classes."
+"What is ""software elegance"" in the context of frameworks?","It refers to clarity, conciseness, and minimal waste in the code generated by the framework, making it clean and easy to modify."
+Why do some software frameworks fail to stand the test of time?,"Frameworks may retain outdated or legacy methods alongside newer features, leading to inefficiencies and bloated final software."
+How do evolving frameworks become more efficient over time?,"By refactoring common code within the enterprise rather than using a generic third-party framework, frameworks can evolve to be more efficient."
+What is the main role of software frameworks in application development?,"They provide an environment to build and deploy applications, focusing on specific domains like web or enterprise applications."
+What is software maintenance?,"Software maintenance involves modifying software after its delivery to fix bugs, add functionality, or adapt to new environments."
+Why is software maintenance often outsourced or offshored?,"It is considered less rewarding and lower-skilled than new development, making it a common target for outsourcing."
+What is the role of testing in software maintenance?,Testing ensures that existing functionality is retained and new features are added without causing issues.
+How does software maintenance differ from software development?,"Maintenance is driven by events like user requests or bug detection, while development focuses on meeting specified requirements."
+What is a legacy system?,"A legacy system is an old software system that is difficult to modify, often written in outdated languages, and essential for current business needs."
+What is the main purpose of software maintenance?,The primary purpose is to ensure the software remains useful and meets changing requirements over time.
+"What is ""technical debt""?","Technical debt occurs when developers take shortcuts for immediate needs, leading to higher long-term maintenance costs."
+What is the difference between code refactoring and restructuring?,"Refactoring improves code structure without changing functionality, while restructuring improves both structure and functionality."
+What are the challenges of maintaining legacy systems?,"Legacy systems often suffer from deteriorating structure, lack of documentation, and reliance on outdated technology, making maintenance difficult."
+Why do software engineers often avoid maintenance tasks?,"Maintenance is seen as unrewarding and less challenging, leading to lower job satisfaction and higher turnover."
+What is the impact of offshoring software maintenance?,"Offshoring can lead to communication barriers, such as time zone differences and cultural issues, which hinder rapid response and customer communication."
+"What is ""software evolution""?","Software evolution refers to the process of expanding functionality after the initial release, often seen as a form of maintenance."
+How is software maintenance categorized?,"It can be categorized into preventive or reactive maintenance, aiming to either add new functionality or preserve existing functionality."
+Why is maintainability important in software development?,"It ensures that software can be easily modified without introducing new issues, reducing long-term maintenance costs."
+How does agile methodology relate to software maintenance?,"While agile doesn't have a formal maintenance phase, change requests can be handled as part of agile sprints."
+What are the two main aspects of software quality in software engineering?,Software quality refers to structural quality (evaluated statically) and functional quality (assessed dynamically).
+How is structural quality of software evaluated?,"It is evaluated through static analysis of the software's inner structure, source code, and testing at both the unit and system level."
+What is functional quality typically assessed by?,"Functional quality is typically assessed dynamically, but static tests like software reviews can also be used."
+Which software quality characteristics are important for business value?,"Reliability, Efficiency, Security, Maintainability, and Size are the key characteristics that provide business value."
+What does ISO/IEC 25000 standard focus on?,"It provides a structure for measuring software quality, focusing on internal structural quality and several attributes like reliability, efficiency, and security."
+What role does software quality play in the release phase of a project?,"Software quality is crucial for ensuring proper release processes, configuration management, and patch processes."
+What are the two main perspectives on software quality?,"One perspective focuses on software's ability to conform to requirements, while the other emphasizes customer satisfaction or defect levels."
+What is the relationship between quality and customer satisfaction?,"Quality is determined by how well the software meets customer needs and provides satisfaction, based on their actual experience with the product."
+What are the different views on software quality proposed by David Garvin?,"Garvin identifies five perspectives: transcendent, product-based, user-based, manufacturing-based, and value-based."
+What is the definition of software quality by Tom DeMarco?,Tom DeMarco defines software quality as a function of how much a product improves the world.
+How does software quality measurement work?,"Software quality is measured through qualitative or quantitative methods, correlating various measurable attributes to define the overall quality of a system."
+"What is the concept of ""technical debt"" in maintainability?","Technical debt refers to the cost incurred when poor maintainability practices are adopted, making future modifications harder and more costly."
+How does software size relate to quality?,"Software size can be measured in terms of technical and functional size, and it impacts the estimation of development cost, progress tracking, and project management activities."
+"What are critical programming errors, and why are they important?","Critical programming errors result from architectural or coding issues that pose significant risks to business operations, often leading to security breaches or system failures."
+What is Function Point Analysis in software sizing?,"Function Point Analysis is a method to measure the functional size of software, helping in comparative analysis and project management."
+What are the limitations of Function Point methodology?,"Function Point methodology can be labor-intensive and costly, especially for large-scale projects, due to its manual nature."
+What is the purpose of Automated Function Points in software sizing?,"Automated Function Points aim to automate the measurement of functional software size, helping in cost estimating and progress tracking."
+What is a software repository?,"A software repository is a storage location for software packages, often managed by version control or repository managers."
+What is a package manager?,A package manager is a tool that automates the installation and updating of software packages from repositories.
+How do software repositories reduce malware risks?,Repositories reduce malware risks by using digitally signed packages from reputable vendors and appropriate permissions systems.
+What is the difference between a package management system and a package development process?,"A package management system integrates code into a coherent unit, while a package development process manages the co-development of related software functions."
+What is the Comprehensive R Archive Network (CRAN)?,CRAN is a repository that runs routine tests on software packages contributed to the R programming language.
+What is the purpose of a package development process?,"The purpose is to manage the co-development of code and documentation for software packages, ensuring good practices and integration."
+How do package managers help with dependencies?,Package managers help manage dependencies between software repositories and ensure the correct versions are installed.
+What is an artifact in the context of a software repository?,"An artifact is a file or collection of files produced from a build process, such as JAR, WAR, or DLL."
+What are the types of metadata used in software repositories?,"Metadata includes information like package name, version, license, and additional details related to binary artifacts."
+What is the role of a repository manager?,"A repository manager organizes and controls the access to software repositories, including caching and aggregating repositories."
+What is software testing?,Software testing is the act of checking if software meets expectations and provides objective information about its quality.
+Can software testing find all bugs?,"No, it cannot find all bugs, but it can recognize problems based on predefined criteria like specifications or customer expectations."
+What are examples of oracles in software testing?,"Examples include specifications, contracts, past versions, and user expectations."
+What is the primary goal of software testing?,The goal is to determine whether the software does what it is supposed to do and meets user expectations.
+What is the pyramid approach in software testing?,"It suggests that most tests should be unit tests, followed by integration tests, and the least should be end-to-end tests."
+What is static testing?,Static testing involves reviewing code and documentation without executing the software.
+What is dynamic testing?,Dynamic testing involves running the software to verify that actual output matches expected output.
+What is the difference between verification and validation in software testing?,"Verification involves static testing, whereas validation involves dynamic testing to check if the software fulfills its intended purpose."
+What is white-box testing?,"White-box testing verifies the internal workings of a program using the source code, focusing on paths and logic."
+What is black-box testing?,"Black-box testing involves designing test cases based on the software's functionality, without knowledge of its internal workings."
+What is grey-box testing?,"Grey-box testing combines aspects of both white-box and black-box testing, using some knowledge of internal structures to design tests at the user level."
+What is regression testing?,"Regression testing aims to find defects after code changes, ensuring that new features do not break existing functionality."
+What is acceptance testing?,"Acceptance testing ensures the software meets customer expectations, and may be done at different stages of development."
+What is the purpose of performance testing?,Performance testing determines how well the software performs in terms of responsiveness and stability under specific workloads.
+What is destructive testing?,"Destructive testing verifies that the software handles invalid or unexpected inputs gracefully, establishing the robustness of its error-management systems."
+What is load testing in software testing?,Load testing checks if the system can operate under large data quantities or a large number of users to assess scalability.
+What is solid modeling?,Solid modeling is a method for mathematical and computer modeling of 3D shapes emphasizing physical fidelity.
+What does solid modeling support?,"It supports the creation, exchange, visualization, animation, interrogation, and annotation of digital models of physical objects."
+How does solid modeling benefit the design process?,"It automates difficult engineering calculations, aiding simulation, planning, and verification in manufacturing."
+What types of manufacturing applications does solid modeling support?,"It supports sheet metal manufacturing, injection molding, welding, and pipe routing, among others."
+How does solid modeling aid in rapid prototyping?,It serves as the foundation for rapid prototyping by using 3D models to reconstruct physical objects.
+"What are the two common approaches to defining ""solidity"" in solid modeling?",The two approaches are point-set topology and algebraic topology.
+What is a key problem in solid modeling applications?,Effectively representing and manipulating 3D geometry consistent with the physical behavior of real artifacts.
+How are solids represented mathematically in solid modeling?,"Solids are represented as closed regular sets in 3D Euclidean space, ensuring mathematical consistency."
+What is the role of Boolean operations in solid modeling?,"Boolean operations (union, intersection, difference) are used to manipulate solid models, ensuring material addition or removal."
+What is a triangulation in solid modeling?,"A triangulation is a decomposition of a solid into triangular faces and tetrahedral elements, useful in finite element analysis."
+What does CSG stand for in solid modeling?,"CSG stands for Constructive Solid Geometry, a method for representing solids through Boolean combinations of primitives."
+What is parametric modeling in solid modeling?,"Parametric modeling uses parameters (like dimensions) to define solid models, allowing for easy modifications and updates."
+How is solid modeling used in medical applications?,"Solid modeling is used to create 3D models from scan data, such as CT or MRI scans, aiding in medical visualization and analysis."
+What is a primitive in solid modeling?,"A primitive is a basic object defined by parameters, like a bolt, used to create more complex solid models."
+What is the main advantage of CSG representations?,"CSG representations are concise, valid, and allow for easy control of a solid's shape through high-level parameters."
+What are special functions in mathematics?,"Special functions are named mathematical functions important in various fields like analysis, physics, and geometry."
+How are special functions typically defined?,They are defined by consensus and commonly recognized for their applications and notation.
+Where do many special functions originate from?,Many arise as solutions to differential equations or integrals of elementary functions.
+How are special functions related to integrals?,Tables of special functions often include integral representations and vice versa.
+What mathematical structures are special functions closely related to?,"They are linked to Lie groups, Lie algebras, and mathematical physics."
+Do symbolic computation engines recognize special functions?,"Yes, most symbolic engines recognize a majority of special functions."
+Name a few functions with internationally recognized notations.,"Sine (sin), cosine (cos), exponential (exp), and error function (erf, erfc)."
+How are subscripts and superscripts used in special functions?,"Subscripts often denote integer arguments; superscripts can imply modifications, not just powers."
+Are most special functions defined for real or complex variables?,Most are considered functions of complex variables.
+What are common ways to evaluate special functions?,"Through Taylor series, rational approximations, or integral representations."
+What problem arises with Taylor series in evaluating special functions?,They may converge slowly or not at all in some cases.
+How did early mathematicians evaluate special functions before computers?,They manually computed and tabulated values for reference.
+What was the goal of the Bateman Manuscript Project?,To create an encyclopedic reference on special functions during the rise of electronic computation.
+What field significantly contributed to the rise of special function theory in the 19th century?,The theory of elliptic functions and spherical harmonics.
+What is a modern source for information on special functions?,The NIST Digital Library of Mathematical Functions.
+How are difference equations related to special functions?,"They have emerged as a new source of special functions, alongside differential equations."
+What role do special functions play in number theory?,Functions like Dirichlet series and modular forms are key in number theory.
+What is monstrous moonshine theory’s connection to special functions?,It introduced new special functions and aspects to the theory.
+What are matrix analogues of special functions?,Functions like the multivariate gamma function and matrix-based Bessel functions.
+What did Lie group theory contribute to special function theory?,It helped generalize and recast classical special function theory.
+What is statistics?,"It is the discipline concerned with collecting, organizing, analyzing, interpreting, and presenting data."
+What are the two main types of statistical methods?,Descriptive statistics and inferential statistics.
+What is a statistical population?,"A set of entities about which statistical inferences are to be made, like all people in a country."
+How does statistics handle large populations when a full census is not possible?,By using representative samples through well-designed surveys and experiments.
+What is the key difference between experimental and observational studies?,"Experimental studies involve manipulation, observational studies do not."
+What is meant by descriptive statistics?,It summarizes data using measures like mean and standard deviation.
+What is the aim of inferential statistics?,To draw conclusions about a population based on sample data.
+What are Type I and Type II errors?,Type I: false positive; Type II: false negative.
+What does central tendency measure?,It describes the typical or central value of a distribution.
+What does dispersion measure?,The spread or variability in a dataset.
+What are examples of statistical errors?,"Random (noise), systematic (bias), and blunders."
+What role does probability theory play in statistics?,It provides the foundation for making inferences from data.
+What is a null hypothesis?,The assumption that there is no effect or relationship between variables.
+What is meant by 'statistic' in singular form?,"A function or summary derived from sample data, like mean."
+What are the scales of measurement defined by Stevens?,"Nominal, ordinal, interval, and ratio."
+What is the Hawthorne effect?,A change in behavior due to the awareness of being observed.
+What are categorical variables?,Variables measured on nominal or ordinal scales.
+What are quantitative variables?,Variables measured on interval or ratio scales.
+What is a pivotal quantity?,A function whose distribution does not depend on unknown parameters.
+What are common methods of statistical estimation?,"Method of moments, maximum likelihood, least squares, estimating equations."
+What is a UMVUE estimator?,An estimator with minimum variance among all unbiased estimators.
+What is sampling theory?,The study of relationships between samples and the populations from which they are drawn.
+What is a representative sample?,A sample that accurately reflects the characteristics of the population.
+What are observational studies used for?,"To study relationships without manipulating variables, like linking smoking to lung cancer."
+What is the difference between probability and statistics?,Probability deduces outcomes from theory; statistics infers theory from data.
+What is stochastic computing?,It is a technique that represents continuous values using random bit streams and performs computation through simple bit-wise operations.
+How does stochastic computing multiply two values p and q?,It uses random bit streams for p and q and performs a bitwise AND; the frequency of 1s in the result approximates pq.
+What is the role of probability in stochastic computing?,It replaces arithmetic by encoding values as the probability of 1s in random bit streams.
+Who introduced stochastic computing and when?,John von Neumann introduced it in 1953.
+Why did stochastic computing lose popularity after the 1970s?,It failed to compete with traditional digital logic in terms of precision and efficiency.
+In what modern applications is stochastic computing used?,"It is used in machine learning, control, error correcting code decoding, and image processing."
+What is progressive precision in stochastic computing?,It refers to the increasing accuracy of results as the length of the bit stream increases.
+Why is stochastic computing considered robust?,"It tolerates bit errors, misaligned inputs, and doesn't require a global clock."
+What is the main hardware advantage of stochastic computing?,It can perform complex operations like multiplication using simple logic gates like AND.
+What is a major drawback in terms of precision?,Achieving high precision requires an exponentially large number of samples.
+Why are pseudo-random number generators a limitation?,"They are computationally expensive, reducing the hardware efficiency of stochastic computing."
+What happens if the input bit streams are correlated?,It can lead to incorrect results and system failures such as latching.
+Can stochastic computing handle all digital functions easily?,"No, some functions like averaging or complex ratios cannot be implemented with simple bit operations."
+What is stochastic decoding?,It's a technique that applies stochastic computing to decode error correcting codes like LDPC.
+What are deterministic methods in stochastic computing?,Methods that ensure every bit from one stream interacts with every bit from another to yield exact results.
+What is bundle processing in stochastic computing?,"It sends a fixed number of bits instead of a stream, improving precision while keeping robustness."
+What is ergodic processing?,It sends streams of bundles to combine the benefits of both stochastic and bundle processing.
+What is burst processing?,A method using increasing sequences of higher base numbers to encode values without randomization.
+What is a string in computer science?,"A string is a sequence of characters used as a data type, often implemented as arrays."
+What are string literals?,"String literals are strings written directly in source code, like ""Hello""."
+How are strings used in formal languages?,They represent finite sequences of symbols from a defined alphabet.
+What is the main purpose of strings in programming?,To store and manipulate human-readable text.
+What is a mutable string?,A string whose content can be changed after creation.
+Name two languages with mutable strings.,C++ and Ruby.
+What is an immutable string?,A string whose content cannot be changed; a new string must be created for changes.
+Name two languages with immutable strings.,Java and Python.
+What are fixed-length strings?,Strings with a predefined maximum length set at compile-time.
+What are variable-length strings?,Strings whose length can change and are determined at runtime.
+What is a C string?,A null-terminated string representation used in the C language.
+What terminates a C string?,A null character (\0)
+What is a Pascal string?,A string that stores its length as a prefix.
+What is a drawback of Pascal strings?,The maximum length is limited by the size of the prefix field.
+What is UTF-8?,A variable-length Unicode encoding that avoids many legacy encoding issues.
+How does UTF-8 differ from UTF-32?,UTF-8 uses 1–4 bytes per character; UTF-32 uses 4 bytes for all characters.
+What issue arises with multi-byte encodings like Shift-JIS?,They make it hard to determine character boundaries and are not self-synchronizing.
+What are some data structures used to store strings efficiently in editors?,"Gap buffers, ropes, and piece tables."
+What is a rope in string handling?,A tree-based data structure used to efficiently manage large or editable strings.
+How can string storage impact security?,Improper termination or length fields can lead to buffer overflows or memory corruption.
+What are ASCIZ strings?,"Null-terminated strings, commonly used in C, named after an assembly directive."
+Why are Unicode strings preferred today?,They support global character sets and reduce encoding issues.
+What is the role of character encoding in strings?,It defines how characters are mapped to bytes in memory.
+What is a byte string?,"A general-purpose string of raw bytes, not limited to readable characters."
+What is string interning?,(Not directly mentioned but implied in immutability) It’s the reuse of immutable strings to save memory.
+What is supervised learning?,It is a machine learning paradigm where a model is trained on labeled input-output pairs to learn a mapping from inputs to outputs.
+What does generalization mean in supervised learning?,It refers to the model's ability to make correct predictions on unseen data.
+How is generalization error defined?,"It measures how well the learned function performs on new, unseen data."
+What is the bias-variance tradeoff?,"It's the balance between a model’s simplicity (bias) and flexibility (variance), affecting prediction accuracy."
+What causes high bias in a model?,Using a model that is too simple to capture the underlying pattern in the data.
+What causes high variance in a model?,"Using a model that is too flexible, leading it to overfit the training data."
+How does training data size affect model selection?,"More complex models need more data to generalize well, while simpler models can work with less data."
+Why is high dimensionality problematic in supervised learning?,It increases the chances of overfitting and makes learning more difficult.
+How can dimensionality problems be mitigated?,By using feature selection or dimensionality reduction techniques.
+What is noise in training data?,"Errors or inconsistencies in output labels, due to human or sensor error."
+What happens if a model fits noisy data too closely?,It leads to overfitting and poor generalization.
+How can we deal with noisy labels?,"Use higher-bias models, early stopping, or remove noisy examples."
+What is empirical risk minimization?,Choosing a function that minimizes error on the training data.
+What is structural risk minimization?,It adds a regularization term to control complexity and reduce overfitting.
+What does the λ parameter control?,It balances the tradeoff between fitting the data and keeping the model simple.
+What is a loss function?,A function that measures the cost of predicting one label instead of the correct one.
+What is regularization?,A technique to prevent overfitting by penalizing model complexity.
+What are common regularization norms?,"L1 (sparse weights), L2 (squared weights), and L0 (number of non-zero weights)."
+What are discriminative models?,"Models that directly learn the decision boundary between classes (e.g., logistic regression)."
+What are generative models?,"Models that learn the joint distribution of inputs and outputs (e.g., naive Bayes)."
+What is a System on a Chip (SoC)?,It's an integrated circuit that combines most components of a computer system on a single microchip.
+What are typical components of an SoC?,"CPU, memory, I/O, data storage control, GPU, Wi-Fi, and RF processing."
+How does an SoC improve power efficiency?,"By integrating components, it reduces inter-chip communication and power loss."
+What is a Package-on-Package (PoP) configuration?,It's where memory and storage are stacked directly on top of the SoC.
+How does an SoC differ from a microcontroller?,SoCs have more computing power and advanced features.
+In which devices are SoCs most commonly used?,"Smartphones, tablets, smartwatches, and embedded systems."
+Why are SoCs crucial in edge computing?,They enable real-time processing close to data sources.
+What advantages do SoCs offer over microcontrollers?,"Better performance, more functionality, and system reliability."
+Give an example of an early SoC-based computer.,"Acorn’s ARM250 SoC in the A3010, A3020, and A4000 models."
+How are modern laptop CPUs designed using SoC principles?,"They integrate CPU, GPU, chipset, and network interfaces in one package."
+What kinds of processor cores are used in SoCs?,"Microcontroller, microprocessor, DSP, and ASIP cores."
+What is an ASIP core?,A processor core optimized with custom instructions for specific applications.
+What memory types are used in SoCs?,"ROM, RAM, EEPROM, flash, SRAM, and DRAM."
+What is the role of SRAM and DRAM in an SoC?,SRAM is for cache/registers; DRAM is for main memory.
+What communication interfaces are found in SoCs?,"USB, Ethernet, HDMI, I²C, SPI, and wireless like Wi-Fi and Bluetooth."
+What is the function of DSP cores in SoCs?,"Signal processing for sensors, multimedia, and data analysis."
+What trend is replacing bus-based SoC communication?,Networks-on-Chip (NoC) for better efficiency and scalability.
+What is a 3DNoC?,A three-dimensional network-on-chip for future SoC designs.
+What is the architectural co-design in SoC development?,Simultaneous development of hardware and software components.
+What is glue logic in SoCs?,Logic that connects and manages interface differences between components.
+Why is FPGA prototyping used for SoCs?,It allows near-real-time validation and debugging before final chip production.
+What is the purpose of a netlist in SoC design?,It describes the physical circuit and connections for chip fabrication.
+What is functional verification?,The process to ensure the SoC design behaves as intended before manufacturing.
+What analysis technique helps optimize SoC design for common cases?,"Markov chain modeling allows asymptotic analysis of SoC's steady-state distribution of power, heat, and latency."
+What technology is typically used to fabricate SoCs?,SoCs are typically fabricated using metal–oxide–semiconductor (MOS) technology.
+What is the role of netlists in SoC design?,Netlists form the basis for the physical design (place and route) process to implement the design intent.
+What tools are used to verify SoC design compliance?,"Static timing modeling, simulation, and other tools ensure design meets frequency, power, and integrity specs."
+What happens after verifying and fixing all bugs in the SoC design?,Physical design files are sent to a mask shop to create lithographic masks for wafer fabrication.
+What is the final step in SoC manufacturing before testing?,The SoC dice are packaged after fabrication and then tested.
+Why are ASICs preferred over FPGAs in large volume production?,"ASICs consume less power, are faster, and reduce total cost of ownership at high volumes."
+What is a major limitation of ASICs compared to FPGAs?,ASICs cannot be reprogrammed and are expensive to manufacture.
+What are the advantages of SoC over multi-chip systems?,"SoCs offer lower power consumption, cost, and higher reliability."
+Why can large SoCs be more expensive than smaller multi-chip systems?,Due to lower yields and higher non-recurring engineering costs.
+When might a system-in-package (SiP) be preferred over an SoC?,When waste heat is high or SoC integration is not feasible for the application.
+Why can heat dissipation be better in SiPs than SoCs?,"Because functional modules are physically separated in SiPs, allowing better heat distribution."
+What are benchmarks like COSMIC used for in SoC development?,They help in evaluating and comparing different SoC design options.
+What is theoretical computer science?,It's a subfield of computer science and mathematics that focuses on the abstract and mathematical foundations of computation.
+What topics does theoretical computer science cover?,"Topics include algorithms, data structures, computational complexity, parallel computing, quantum computation, cryptography, machine learning, and more."
+What is an algorithm?,An algorithm is a step-by-step procedure for calculations or automated reasoning.
+What is automata theory?,Automata theory studies abstract machines and computational problems that can be solved using them.
+What is coding theory?,"Coding theory studies the properties of codes for data compression, cryptography, error correction, and network coding."
+What does computational complexity theory focus on?,It classifies computational problems based on their inherent difficulty and relates these classes to each other.
+What is computational geometry?,"It's a branch that studies algorithms based on geometric problems, relevant for fields like robotics and computer graphics."
+What is supervised learning in machine learning?,"It involves training algorithms using labeled data to predict labels for new, unseen samples."
+What is computational number theory?,"It's the study of algorithms for number-theoretic computations, with integer factorization being a notable problem."
+What is cryptography?,Cryptography is the practice of secure communication techniques in the presence of adversaries.
+What is a data structure?,A data structure is a way of organizing data for efficient use in computations.
+What is distributed computing?,Distributed computing involves systems where components located on networked computers communicate and coordinate to achieve a common goal.
+What is parallel computing?,Parallel computing involves breaking large problems into smaller ones that are solved simultaneously.
+What is programming language theory?,"It involves the study of programming languages, their design, implementation, and semantics."
+What is a quantum computer?,A quantum computer uses quantum mechanical phenomena like superposition and entanglement to perform computations.
+What is computer algebra?,Computer algebra refers to algorithms and systems used for manipulating mathematical expressions symbolically.
+What is VLSI?,Very-large-scale integration (VLSI) is the process of creating integrated circuits by combining thousands of transistors into a single chip.
+What is a tree in computer science?,"A tree is an abstract data type representing a hierarchical structure with connected nodes, where each node can have many children but only one parent (except the root)."
+What is the root node in a tree?,"The root node is the top-most node in the tree, having no parent."
+What is recursion's role in tree traversal?,"Recursion is useful because each child node can be treated as the root of its own subtree, simplifying tree traversal."
+What is a binary tree?,A binary tree is a type of tree where each parent node can have at most two children.
+What are leaf nodes in a tree?,Leaf nodes are external nodes with no children.
+What is the height of a node in a tree?,The height of a node is the length of the longest downward path to a leaf from that node.
+What is the depth of a node in a tree?,The depth of a node is the length of the path from that node to the root.
+What is a pre-order traversal?,"In pre-order traversal, each parent node is visited before its children."
+What is a post-order traversal?,"In post-order traversal, each child node is visited before its parent."
+What is an in-order traversal?,"In in-order traversal, the left subtree is visited first, followed by the node itself, and then the right subtree."
+What is level-order traversal?,"Level-order traversal visits nodes level by level, starting with the root node."
+How can trees be represented in memory?,"Trees can be represented using dynamic memory allocation with pointers to children and parents, or using fixed-size lists or adjacency lists."
+What is a binary heap?,"A binary heap is a special type of binary tree where elements are arranged based on a specific ordering, often used for implementing priority queues."
+How is a tree represented in relational databases?,"In relational databases, nodes are typically represented as rows in a table, with indexed row IDs facilitating parent-child relationships."
+What is a binary tree in type theory?,"In type theory, a binary tree is an inductive type where each node has a value and exactly two children (or none)."
+How are trees used in applications?,"Trees are used to represent hierarchical data structures, such as file systems, organizational charts, and in parsing JSON and YAML documents."
+What are common uses of tree structures?,"Trees are used in representing mathematical structures, database indexing, syntax trees in compilers, and mapping relationships in various applications."
+What is unsupervised learning in machine learning?,Unsupervised learning is a framework where algorithms learn patterns from unlabeled data.
+How does unsupervised learning differ from supervised learning?,"Unsupervised learning uses unlabeled data, while supervised learning uses labeled data for training."
+What are some common algorithms used in unsupervised learning?,"Clustering algorithms like k-means, dimensionality reduction techniques like PCA, autoencoders, and Boltzmann machines."
+What is a typical task in unsupervised learning?,A common task is for a model to infer missing data after part of it is removed from a dataset.
+How does unsupervised learning handle error correction?,It uses methods like contrastive divergence or backpropagation of reconstruction errors to correct errors.
+What is a generative task in unsupervised learning?,"It involves training a model to generate data, such as textual data, which is later fine-tuned for other tasks."
+What is a Boltzmann machine in unsupervised learning?,"A Boltzmann machine is a type of neural network inspired by statistical mechanics, used for unsupervised learning."
+How does Hebbian learning work in neural networks?,"In Hebbian learning, connections between neurons are strengthened if they activate together, regardless of error."
+What is the Self-Organizing Map (SOM)?,"The SOM is an unsupervised learning model that organizes data topographically, mapping similar data points to nearby locations."
+What is the role of the vigilance parameter in ART networks?,The vigilance parameter in ART networks controls the degree of similarity required for clustering data.
+What is principal component analysis (PCA)?,PCA is a technique used in unsupervised learning to reduce the dimensionality of data while preserving variance.
+What is cluster analysis in unsupervised learning?,Cluster analysis groups data with shared attributes to identify relationships without labeled data.
+How is unsupervised learning used in anomaly detection?,Unsupervised learning helps detect data points that deviate from typical patterns in a dataset.
+What is the method of moments in unsupervised learning?,The method of moments estimates unknown parameters of a model using statistical moments like mean and covariance.
+What is the Expectation-Maximization (EM) algorithm?,"The EM algorithm is a statistical method used for learning parameters in latent variable models, though it can get stuck in local optima."
+What is a latent variable model?,A latent variable model involves both observed variables and hidden variables that are not directly observable.
+How does topic modeling work in machine learning?,"Topic modeling generates words in a document based on the hidden topic of the document, a latent variable."
+What are latent variable models commonly used for?,Latent variable models are used for tasks like topic modeling and other forms of probabilistic reasoning in unsupervised learning.
+What does PCA do in unsupervised learning?,PCA reduces the dimensionality of large datasets while maintaining as much variance as possible.
+What is the World Wide Web (WWW)?,The World Wide Web is an information system that enables content sharing over the Internet via the Hypertext Transfer Protocol (HTTP).
+Who invented the World Wide Web?,The World Wide Web was invented by Tim Berners-Lee while working at CERN in 1989.
+When was the Web opened to the public?,The Web was opened to the public in 1993.
+What is the purpose of the Hypertext Transfer Protocol (HTTP)?,"HTTP is used to transfer information across the Internet, enabling access to web resources."
+What is HTML?,HTML (Hypertext Markup Language) is the standard markup language used for creating web pages.
+What does a web browser do?,A web browser accesses web pages on the World Wide Web and displays their content.
+What is a URL?,A URL (Uniform Resource Locator) is a string that identifies the location of resources on the World Wide Web.
+What are web applications?,"Web applications are web pages that function as software applications, allowing user interaction and data manipulation."
+What was Tim Berners-Lee’s motivation for creating the Web?,"He aimed to solve the problem of storing, updating, and finding documents and data at CERN and distributing them to collaborators."
+How did the Web spread beyond CERN?,"After CERN made the Web's protocol and code royalty-free in 1993, it spread to other institutions and quickly grew."
+What was the role of the Mosaic web browser in the Web’s growth?,"Mosaic was a graphical browser released in 1993, which helped popularize the Web by displaying inline images and forms."
+What is the difference between the Internet and the World Wide Web?,"The Internet is a global network of interconnected computers, while the World Wide Web is a collection of documents and resources linked by hyperlinks."
+What is the significance of HTML5?,"HTML5 is the latest version of HTML, which allows the embedding of multimedia content and supports modern web applications."
+"What does the term ""web surfing"" refer to?",Web surfing refers to navigating between web pages by following hyperlinks.
+What is link rot?,"Link rot is the phenomenon where hyperlinks become obsolete or lead to non-existent resources, often called ""dead links."""
+What is the HTTP request process when accessing a web page?,"The browser sends an HTTP request to a web server, which returns an HTTP response with the requested content."
+What is the role of JavaScript in a web page?,"JavaScript allows interactivity on web pages, enabling dynamic changes and user interaction with the page’s content."
+What are the differences between static and dynamic web pages?,"Static web pages are delivered exactly as stored, while dynamic web pages are generated by a web application based on server-side or client-side scripting."
+What is AJAX in web development?,AJAX (Asynchronous JavaScript and XML) allows for updating web pages dynamically without reloading the entire page.
+What is the function of a CNAME in a website's domain structure?,"A CNAME (Canonical Name) record maps a domain to another, often used for load balancing among multiple web servers."
+How do modern browsers handle incomplete domain names?,"Browsers may automatically prepend ""www"" and a domain extension (e.g., "".com"") if the user enters an incomplete domain name."
+What year was ARPANET created?,1969
+When did the US pass the National Information Infrastructure Act?,1993
+What year did Pirelli introduce the wavelength-division multiplexing (WDM) system?,1994
+When was Ciena Corporation founded?,1992
+What year was Ciena's dual-stage optical amplifier patented?,1997
+When was Ciena's dual-stage optical amplifier deployed on the Sprint network?,1996
+"When was the first search engine, Archie, released?",1990
+When did Yahoo! release their search engine?,1995
+When did Google release their search engine?,1998
+What year did the deep web term get coined by Michael K. Bergman?,2001
+When was the National Science Foundation Network (NSFNET) founded?,1985
+When did the release of the World Wide Web to the public occur?,1993
+When was HTTP cookies invented?,1994
+What year did Google estimate that 1 in 10 web pages contain malicious code?,2007
+When did RSA estimate the global losses from phishing at $1.5 billion?,2012
+When did the W3C begin its Web Accessibility Initiative?,2004 or 2005
+When did Unicode surpass ASCII and Western European as the Web's most frequently used character map?,2007
+What year did RFC 3986 allow resources to be identified by URI in a subset of US-ASCII?,2005
+When was RFC 3987 allowed for more characters and IRI in any language?,2007
+What is a user agent?,A user agent is a web browser or web crawler that initiates communication by making a request for a specific resource using HTTP.
+What does a web server do?,"A web server serves content requested by clients, including static and dynamic resources, and can execute server-side scripts like PHP or ASP."
+What is the difference between static and dynamic content on a web server?,"Static content is pre-existing, fast, and easy to cache, while dynamic content is generated on-the-fly, often based on database queries."
+Can web servers be found in devices other than computers?,"Yes, web servers can be embedded in devices like printers, routers, and webcams to manage and administer the device via a browser."
+What is optical networking?,"Optical networking is an infrastructure using optical fibers to transmit data over long distances, relying on optical microsystems and wavelength-division multiplexing."
+What is the role of ARPANET in the development of the Internet?,"ARPANET, created in 1969, was one of the first versions of the Internet, designed for researchers and later expanded into the global Internet."
+What does wavelength-division multiplexing (WDM) do?,WDM increases the data transmission capacity of optical fibers by allowing multiple signals to be transmitted simultaneously over the same fiber.
+What was Ciena's contribution to optical networking?,Ciena developed a dual-stage optical amplifier for dense wavelength-division multiplexing (DWDM) and patented it in 1997.
+What is an HTTP cookie?,An HTTP cookie is a small piece of data sent by a website and stored by the user's browser to remember stateful information or browsing activity.
+How are cookies used in web authentication?,Authentication cookies are used to identify if a user is logged in and to link their session with a specific account on a website.
+What is a potential security concern with cookies?,"Cookies can be exploited through vulnerabilities like cross-site scripting or cross-site request forgery, potentially allowing hackers to access user data."
+What is the deep web?,"The deep web consists of content not indexed by standard web search engines, such as web mail, online banking, and services behind paywalls."
+What is the difference between the deep web and the surface web?,"The surface web is accessible to anyone, while the deep web contains content hidden behind HTTP forms or security access."
+What is a web cache?,"A web cache stores recently accessed web pages to improve response time for future requests, reducing the need to re-fetch resources."
+What is one of the most common web security threats?,"One of the most common web security threats is SQL injection, where malicious code is inserted into a database query through a vulnerable website."
+What is phishing?,Phishing is a cyberattack method where attackers trick users into providing sensitive information through fraudulent websites or messages.
+How do search engines gather information?,"Search engines use algorithms to crawl the web, indexing information and displaying results in a search engine results page (SERP)."
+What is the role of cookies in user profiling?,"Cookies allow websites to track user behavior and build detailed profiles, which can be used for targeted advertising or shared with third parties."
+How can web browsing activity be hidden?,Web browsing activity can be hidden using private browsing modes or by using a Virtual Private Network (VPN) to encrypt traffic and mask the IP address.
+What are some privacy concerns with social networking?,"Privacy concerns on social networking sites include unwanted exposure of personal information, targeted advertising, and potential misuse by law enforcement or bullies."
+What are web standards?,"Web standards are technical specifications developed by standards organizations to ensure interoperability, accessibility, and usability of web pages and services."
+How does the W3C promote web accessibility?,"The W3C Web Accessibility Initiative develops guidelines to make the web accessible to individuals with disabilities, ensuring equal access for all users."
+What is the significance of Unicode for the Web?,"Unicode is the most frequently used character map on the web, allowing resources to be identified in any language or script."
+What does VLSI stand for?,Very-large-scale integration
+What is VLSI used for in semiconductor and telecommunications technologies?,Creating integrated circuits with millions or billions of MOS transistors
+What was the main advantage of VLSI over previous IC technologies?,"It allowed for the integration of more components on a single chip, improving performance and functionality."
+Who invented the first transistor?,Bell Labs (1947)
+What problem did the invention of the integrated circuit solve?,"It made circuits smaller and allowed for automation in manufacturing, overcoming the limitations of earlier, larger circuits."
+What was the first scale of integration in IC technology?,Small-scale integration (SSI)
+What followed SSI in the progression of integrated circuit technology?,Medium-scale integration (MSI)
+What is the current level of integration in today's microprocessors?,Billions of transistors and millions of gates
+What is ultra-large-scale integration (ULSI) and why is it no longer in widespread use?,"ULSI refers to integration levels higher than VLSI, but the distinction is no longer relevant due to the massive number of transistors in modern devices."
+What is structured VLSI design?,A modular methodology for saving microchip area by minimizing the interconnect fabric area.
+"Who originally coined the term ""structured VLSI design""?",Reiner Hartenstein
+What problem did the introduction of structured VLSI design address?,It aimed to optimize the area usage on a chip by reducing the interconnect area.
+Why did structured VLSI design lose popularity in later years?,Due to the development of placement and routing tools that tolerated some inefficiency.
+What role did Moore's law play in VLSI design evolution?,It allowed for the increase in complexity of designs despite inefficiencies in routing.
+What is the role of automated logic synthesis in VLSI designs?,It enables higher levels of complexity by automatically laying out transistors in modern designs.
+When did VLSI technology begin?,1970s
+When was the first commercial MOS integrated circuit introduced?,1964
+"When did MOS integrated circuit technology allow the integration of more than 10,000 transistors on a single chip?",Early 1970s
+When did VLSI technology emerge?,1970s and 1980s
+When did billion-transistor processors become commercially available?,2008
+"When did Reiner Hartenstein coin the term ""structured VLSI design""?",Mid-1970s
+What is a virtual machine (VM)?,"A VM is a virtualization or emulation of a computer system, providing the functionality of a physical computer."
+What is the main difference between system virtual machines and process virtual machines?,"System VMs emulate a full computer system, while process VMs support a single application and provide a platform-independent programming environment."
+What is OS-level virtualization?,OS-level virtualization partitions a computer's resources via the kernel to run isolated virtualized environments.
+"What is the role of the ""host"" in virtualization?",The host refers to the physical machine running the virtual machine.
+How does a VM help in running different operating systems?,"VMs allow different operating systems to run on the same computer, providing isolation and flexibility."
+What is kernel same-page merging (KSM)?,KSM is a technique for sharing identical memory pages across multiple virtual machines to save memory.
+How did virtual machines evolve from time-sharing systems?,VMs evolved from time-sharing systems that allowed multiple users to run single-tasking operating systems concurrently.
+What is a process virtual machine used for?,It provides a platform-independent environment for a program to execute in the same way across different platforms.
+What is a snapshot in the context of virtual machines?,"A snapshot is a state of a VM at a specific point in time, which can be restored later to undo changes."
+What is migration in VM technology?,Migration refers to moving a VM from one host to another while keeping the VM's state intact.
+What is nested virtualization?,"It refers to running a virtual machine inside another VM, allowing for multiple layers of virtualization."
+How does hardware-assisted virtualization differ from software virtualization?,"Hardware-assisted virtualization uses hardware support to facilitate VM monitoring and guest isolation, while software virtualization relies on the host software."
+What is the purpose of snapshots in virtual machines?,"Snapshots provide a backup technique to restore the VM's state to a previous point, enabling recovery from risky operations."
+What is the significance of JIT (just-in-time) compilation in process VMs?,"JIT compilation improves performance by compiling bytecode into machine code at runtime, allowing it to run more efficiently."
+What was the first system to allow full virtualization?,IBM's CP/CMS was the first to allow full virtualization.
+What is the role of virtualization in embedded systems?,"Virtualization enables running multiple operating systems, like real-time OS and general-purpose OS, on the same hardware for embedded systems."
+What are the advantages of using VMs for server consolidation?,"VMs allow multiple servers to run on the same physical hardware, improving resource utilization and reducing costs."
+What is the purpose of virtual disks in VM environments?,"Virtual disks simulate storage devices within the VM, enabling data access and manipulation within the virtualized environment."
+What is failover in the context of virtual machines?,Failover allows a VM to continue operation from its last known state if the host machine fails.
+What is the significance of virtual machine migration in cloud computing?,"VM migration enables seamless transfer of virtual machines between physical servers, ensuring continuous service in the cloud environment."
+What is a word processor?,"A word processor is a device or computer program for input, editing, formatting, and output of text, often with additional features."
+How did early word processors differ from modern ones?,"Early word processors were standalone devices, while modern ones are programs running on general-purpose computers like smartphones, tablets, and desktops."
+Name three common word processor programs.,"LibreOffice Writer, Google Docs, and Microsoft Word."
+"When did the term ""word processing"" first appear in American offices?","The term ""word processing"" first appeared in American offices in the early 1970s."
+What was the first word processing device patented?,"The first word processing device, a ""Machine for Transcribing Letters,"" was patented in 1714 by Henry Mill."
+Who created the first recognizable typewriter?,Christopher Latham Sholes created the first recognizable typewriter in the late 19th century.
+What was the IBM MT/ST?,"The IBM MT/ST was a model of the IBM Selectric typewriter, integrated with magnetic tape recording and playback facilities, and automated word wrap."
+"What does the term ""word processor"" originally refer to?",It originally referred to standalone machines for automating the writing and editing process.
+When did word processors start becoming computer-based?,"Word processors began shifting to computer-based systems in the 1960s and 70s, with the development of several innovations."
+What was the first word processing software for personal computers?,"The first word processing software for personal computers was Electric Pencil, released in December 1976."
+What was WordStar?,WordStar was a word processing program released in 1978 that became dominant in the market due to its many new features.
+What was a key feature of early word processing software?,Early word processing software required users to memorize semi-mnemonic key combinations for navigation instead of intuitive key presses.
+When did graphical user interfaces and WYSIWYG start being used in word processors?,Graphical user interfaces and WYSIWYG (What You See Is What You Get) features started being used in word processors in the late 1980s with software like MacWrite.
+What is the significance of Google Docs in word processing?,"Google Docs popularized online, web browser-based word processing, allowing for remote access, real-time collaboration, and cross-platform use."
