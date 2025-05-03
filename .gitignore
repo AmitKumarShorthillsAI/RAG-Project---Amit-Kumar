@@ -17,3 +17,5 @@ scrapers/data/
 
 # Ignore logs
 app/logs/
+
+GroundTruth_Context_Generation/logs_eval/
