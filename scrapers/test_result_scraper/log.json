@@ -1,0 +1,34 @@
+[
+  {
+    "test_case_id": "TC_WS_001",
+    "status": "Pass"
+  },
+  {
+    "test_case_id": "TC_WS_002",
+    "status": "Pass"
+  },
+  {
+    "test_case_id": "TC_WS_003",
+    "status": "Pass"
+  },
+  {
+    "test_case_id": "TC_WS_004",
+    "status": "Pass"
+  },
+  {
+    "test_case_id": "TC_WS_005",
+    "status": "Pass"
+  },
+  {
+    "test_case_id": "TC_WS_006",
+    "status": "Pass"
+  },
+  {
+    "test_case_id": "TC_WS_007",
+    "status": "Pass"
+  },
+  {
+    "test_case_id": "TC_WS_008",
+    "status": "Pass"
+  }
+]
