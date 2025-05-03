@@ -1,5 +1,6 @@
 import os
 import json
+import sqlite3
 import requests
 import streamlit as st
 import traceback
@@ -14,10 +15,43 @@ LOG_DIR = "logs"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3:8b"
 MAX_CONTEXT_LEN = 1200
+DB_PATH = os.path.join(LOG_DIR, "history.db")
 
 # Setup
 os.makedirs(LOG_DIR, exist_ok=True)
 
+# Initialize SQLite DB
+def init_db():
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    c.execute("""
+        CREATE TABLE IF NOT EXISTS history (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            query TEXT UNIQUE,
+            timestamp TEXT
+        )
+    """)
+    conn.commit()
+    conn.close()
+
+def save_query(query):
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    c.execute("INSERT OR IGNORE INTO history (query, timestamp) VALUES (?, ?)", (query, datetime.now().isoformat()))
+    conn.commit()
+    conn.close()
+
+def get_history():
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    c.execute("SELECT query FROM history ORDER BY id DESC")
+    rows = c.fetchall()
+    conn.close()
+    return [r[0] for r in rows]
+
+init_db()
+
+# Loaders
 @st.cache_resource
 def load_vectorstore():
     embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-large-en-v1.5")
@@ -43,9 +77,7 @@ def stream_ollama(prompt):
         stream=True
     )
     response.raise_for_status()
-    partial_answer = ""
     for line in response.iter_lines():
-        print("Raw line:", line)
         if line:
             try:
                 json_line = json.loads(line)
@@ -53,17 +85,27 @@ def stream_ollama(prompt):
                 yield token
             except Exception as e:
                 print("JSON parse error:", e)
-    return partial_answer
+
+# Sidebar: Query History
+with st.sidebar:
+    st.header("📜 Search History")
+    for past_query in get_history():
+        if st.button(past_query):
+            st.session_state["query"] = past_query
 
 # UI
-st.title("🔎 RAG Q&A System with Gemini")
+st.title("🔎 RAG Q&A System with Ollama")
 
-query = st.text_input("Ask a question related to Computer Science:", "")
+if "query" not in st.session_state:
+    st.session_state["query"] = ""
+
+query = st.text_input("Ask a question related to Computer Science:", st.session_state["query"])
 
 if st.button("Search"):
     if not query.strip():
         st.warning("Please enter a valid query.")
     else:
+        save_query(query)
         with st.spinner("Searching..."):
             try:
                 docs = vectorstore.similarity_search(query, k=3)
@@ -80,21 +122,13 @@ Question:
 
 Answer:"""
 
-                print("Retrieved docs:", len(docs))
-                print("Top reranked docs:", len(top_docs))
-                print("Prompt:", prompt)
-
-                # st.success("Answer generated below ⬇️")
-                # st.markdown("### 💬 Answer:")
-
-                # Streaming response (fixing st.write and partial display)
                 full_response = ""
                 response_placeholder = st.empty()
                 for token in stream_ollama(prompt):
                     full_response += token
                     response_placeholder.markdown(f"### 💬 Answer:\n\n{full_response}")
 
-                # Logging
+                # Logging full interaction
                 ts = datetime.now().strftime("%Y%m%d_%H%M%S")
                 log_data = {"timestamp": ts, "query": query, "context": context, "answer": full_response}
                 with open(f"{LOG_DIR}/log_{ts}.json", "w", encoding="utf-8") as f:
@@ -102,4 +136,4 @@ Answer:"""
 
             except Exception as e:
                 st.error("❌ An error occurred.")
-                st.code(traceback.format_exc())  # Shows full traceback
+                st.code(traceback.format_exc())
