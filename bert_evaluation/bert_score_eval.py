@@ -44,7 +44,7 @@ candidates = df["generated_answer"].tolist()
 
 # ----------------------------- Load Models -----------------------------
 logging.info("Loading models for evaluation...")
-sim_model = SentenceTransformer('BAAI/bge-large-en-v1.5')  # For cosine similarity
+sim_model = SentenceTransformer('BAAI/bge-small-en-v1.5')  # For cosine similarity
 
 # ----------------------------- LLM-based Metric: BERTScore -----------------------------
 logging.info("Running BERTScore using 'microsoft/deberta-base'...")
