@@ -63,7 +63,7 @@ RAG Project/
 
 ## 3. 🧭 Architecture Overview
 
-[![View on Eraser](https://app.eraser.io/workspace/MbIksknysMwQ7GE9LrdF/preview?elements=roFqULWxabsrr2BF-r-jew&type=embed)](https://app.eraser.io/workspace/MbIksknysMwQ7GE9LrdF?elements=roFqULWxabsrr2BF-r-jew)
+[![Cursor Logo](/assets/RAG-Architecture.png)](https://app.eraser.io/workspace/MbIksknysMwQ7GE9LrdF)
 
 *📌 Insert architecture image showing the full RAG pipeline with scraping → chunking → embedding → retrieval → reranking → generation → evaluation.*
 
