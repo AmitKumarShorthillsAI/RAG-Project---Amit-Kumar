@@ -1,0 +1,2021 @@
+[Index 0] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 1] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 2] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.8}
+
+[Index 3] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 4] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 5] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 6] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 7] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 8] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 9] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 10] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 11] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 12] Scores: {'faithfulness': 0.8, 'answer_relevance': 1.0, 'answer_correctness': 0.6, 'context_precision': 0.7, 'context_recall': 0.8}
+
+[Index 13] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 14] Scores: {'faithfulness': 0.0, 'answer_relevance': 0.6, 'answer_correctness': 0.0, 'context_precision': 0.0, 'context_recall': 0.0}
+
+[Index 15] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.7, 'answer_correctness': 0.3, 'context_precision': 0.7, 'context_recall': 0.4}
+
+[Index 16] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 17] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 18] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 19] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 20] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 21] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 22] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 23] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 24] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 25] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 26] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 27] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.8}
+
+[Index 28] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 29] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 30] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.7, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 31] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 32] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 33] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 34] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.7}
+
+[Index 35] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 36] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 37] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 38] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 39] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 40] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 41] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 42] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 43] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 44] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 45] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 46] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 47] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 48] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 49] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 50] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 51] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 52] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 53] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 54] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 55] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 56] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 57] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 58] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 59] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 60] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 61] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 62] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 63] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 64] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 65] Scores: {'faithfulness': 0.6, 'answer_relevance': 0.7, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.4}
+
+[Index 66] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 67] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 68] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 69] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 70] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 71] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 72] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 73] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 74] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 0.7, 'context_recall': 0.4}
+
+[Index 75] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 76] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 77] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 78] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 79] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 80] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 81] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 82] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 83] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 84] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 85] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 86] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 87] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 88] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 89] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 90] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 91] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 92] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 93] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 94] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 95] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 96] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 97] Scores: {'faithfulness': 0.95, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 98] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 99] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 100] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 101] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 102] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 103] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 104] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 105] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 106] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 107] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 108] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 109] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 110] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.7, 'answer_correctness': 0.6, 'context_precision': 0.6, 'context_recall': 0.5}
+
+[Index 111] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 112] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 113] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 114] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 115] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 116] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 117] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 118] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 119] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 120] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 121] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 122] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 123] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 124] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 125] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 126] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 127] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 128] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 129] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 130] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 131] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 132] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 133] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 134] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 135] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 136] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 137] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 138] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.4}
+
+[Index 139] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 140] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 141] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 142] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 143] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 144] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 145] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 146] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 147] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 148] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 149] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 150] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 151] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 152] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 153] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 154] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.9}
+
+[Index 155] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 156] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 157] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 158] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.7, 'context_recall': 0.7}
+
+[Index 159] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 160] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 161] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 162] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 163] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 164] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 165] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.9}
+
+[Index 166] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 167] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 168] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 169] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 170] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 171] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 172] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 173] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 174] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 175] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 176] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 177] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 178] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 179] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 180] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 181] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 182] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 183] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.7, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.4}
+
+[Index 184] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 185] Scores: {'faithfulness': 0.8, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 186] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 187] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 188] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 189] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 190] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 191] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 192] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 193] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 194] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 195] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 196] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.9, 'context_recall': 0.7}
+
+[Index 197] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 198] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 199] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 200] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 201] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 202] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 203] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 204] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 205] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 206] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 207] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 208] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 209] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 210] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 211] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.7, 'answer_correctness': 0.6, 'context_precision': 0.7, 'context_recall': 0.5}
+
+[Index 212] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 213] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 214] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 215] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 216] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 217] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 218] Scores: {'faithfulness': 0.9, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 219] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 220] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 221] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 222] Scores: {'faithfulness': 0.75, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 0.75, 'context_recall': 0.5}
+
+[Index 223] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 224] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 225] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 226] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 227] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 228] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 229] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 230] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 231] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 232] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 233] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 234] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 235] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 236] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 237] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 238] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 239] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 240] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 241] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 242] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 243] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 244] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 245] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 246] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 247] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 248] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 249] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 250] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 251] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 252] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 253] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 254] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 255] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 256] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 257] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 258] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 259] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 260] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 261] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 262] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 263] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 264] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 265] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 266] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 267] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 268] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 269] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 270] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 271] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 272] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 273] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 274] Scores: {'faithfulness': 0.0, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 0.2, 'context_recall': 0.25}
+
+[Index 275] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 276] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 277] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 278] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 279] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 280] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 281] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 282] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 283] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 284] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 285] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 286] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 287] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 288] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 289] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 290] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 291] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 292] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 293] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 294] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 295] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 296] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 297] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 298] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.7, 'context_precision': 0.9, 'context_recall': 0.6}
+
+[Index 299] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 300] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 301] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 302] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 303] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 304] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 305] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 306] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 307] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.8}
+
+[Index 308] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 309] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 310] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 311] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 312] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 313] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 314] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.9, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 315] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 316] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 317] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 318] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 319] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 320] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 321] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 322] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 323] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 324] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.7, 'answer_correctness': 0.0, 'context_precision': 0.7, 'context_recall': 0.3}
+
+[Index 325] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 326] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 327] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 328] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 329] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 330] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 331] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 332] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 333] Scores: {'faithfulness': 0.8, 'answer_relevance': 1.0, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 334] Scores: {'faithfulness': 0.8, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 0.6, 'context_recall': 0.6}
+
+[Index 335] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 336] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 337] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 338] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 339] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 340] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 341] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 342] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 343] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 344] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 345] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 346] Scores: {'faithfulness': 0.9, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 347] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 348] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.4}
+
+[Index 349] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 350] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 351] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 352] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 353] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 354] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 355] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 356] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 357] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 358] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 359] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 360] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 361] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 362] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 363] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 364] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 365] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 366] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 367] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 368] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 369] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 370] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 371] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.9, 'context_recall': 0.7}
+
+[Index 372] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 373] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 374] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 375] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 376] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 377] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 378] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 379] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 380] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 381] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 382] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 383] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 384] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 385] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 386] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 387] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 388] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 389] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 390] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 391] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 392] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 393] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 394] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.6, 'context_recall': 0.6}
+
+[Index 395] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 396] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 397] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 398] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 399] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 400] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 401] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 402] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.8}
+
+[Index 403] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 0.6, 'context_recall': 0.2}
+
+[Index 404] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 405] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.9}
+
+[Index 406] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 407] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.5, 'context_recall': 1.0}
+
+[Index 408] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 409] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 410] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 411] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 412] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 413] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 414] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 415] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 416] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 417] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 418] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 419] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.5, 'context_precision': 0.7, 'context_recall': 0.3}
+
+[Index 420] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 421] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 422] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 423] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 424] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 425] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 426] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 427] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 428] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.9, 'context_recall': 0.7}
+
+[Index 429] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 430] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 431] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 432] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 433] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 434] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 435] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 436] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 437] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 438] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 439] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 440] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 441] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 442] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 443] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 444] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 445] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 446] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 447] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 448] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 449] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 450] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 451] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 452] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 453] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 454] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 455] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 456] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 457] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.9, 'context_recall': 0.7}
+
+[Index 458] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 459] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 460] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 461] Scores: {'faithfulness': 0.3, 'answer_relevance': 0.6, 'answer_correctness': 0.4, 'context_precision': 0.6, 'context_recall': 0.5}
+
+[Index 462] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 463] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 464] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 465] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 466] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 467] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.9, 'answer_correctness': 0.7, 'context_precision': 0.9, 'context_recall': 0.6}
+
+[Index 468] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 469] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 470] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 471] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.9}
+
+[Index 472] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 473] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 474] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 475] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 476] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 477] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 478] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 479] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 480] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 481] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 482] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 483] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 484] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 485] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.9}
+
+[Index 486] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 487] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 488] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 489] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 490] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 491] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 492] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.6, 'answer_correctness': 0.6, 'context_precision': 0.6, 'context_recall': 0.5}
+
+[Index 493] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 494] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 495] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 496] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 497] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 498] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 499] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.7, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 500] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 501] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 502] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.9}
+
+[Index 503] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 504] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 505] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 506] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 507] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 508] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 509] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 510] Scores: {'faithfulness': 0.9, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 511] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 512] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 513] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 514] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 515] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 516] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 517] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 518] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 519] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 520] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 521] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 522] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 523] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 524] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 525] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 526] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 527] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 528] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 529] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 530] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 531] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 532] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 533] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 534] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.9, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 535] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 536] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 537] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 538] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 539] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 540] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 541] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.7, 'context_recall': 0.8}
+
+[Index 542] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 543] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 544] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 545] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 546] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 547] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 548] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 549] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 550] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 551] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 552] Scores: {'faithfulness': 0.9, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 553] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 554] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 555] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 556] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 557] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 558] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 559] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 560] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 561] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 562] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 563] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 564] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 565] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 566] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 567] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 568] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 569] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 570] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 571] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 572] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 573] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 574] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 575] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 576] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 577] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 578] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 579] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 580] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 581] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 582] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 583] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 584] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 585] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 586] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 587] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 588] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 589] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 590] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 591] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 592] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 593] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 594] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 595] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 596] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 597] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.9}
+
+[Index 598] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 599] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 600] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 601] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 602] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.9, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 603] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 604] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 605] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 606] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 607] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 608] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 609] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 610] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 611] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 612] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 613] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 614] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 615] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 616] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 617] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 618] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 619] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 620] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 621] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 622] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 623] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 624] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 625] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 626] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 627] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 628] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 629] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.7, 'answer_correctness': 0.5, 'context_precision': 0.7, 'context_recall': 0.3}
+
+[Index 630] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 631] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 632] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.7}
+
+[Index 633] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 634] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 635] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 636] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 637] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 638] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 639] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 640] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 0.75, 'context_recall': 0.75}
+
+[Index 641] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 642] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 643] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 644] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.9, 'context_recall': 0.7}
+
+[Index 645] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 646] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 647] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 648] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 649] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 650] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 651] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 652] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 653] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 654] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 655] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 656] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 657] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 658] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.85, 'context_recall': 0.75}
+
+[Index 659] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 660] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 661] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 662] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 663] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 664] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 665] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.8}
+
+[Index 666] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 667] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 668] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 669] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 670] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 671] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.75}
+
+[Index 672] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 673] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 674] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 675] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 676] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 677] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 678] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 679] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 680] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 681] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 682] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 683] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 684] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 685] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 686] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 687] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 688] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 689] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 690] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 691] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 692] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.4}
+
+[Index 693] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 694] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 695] Scores: {'faithfulness': 0.2, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 0.7, 'context_recall': 0.1}
+
+[Index 696] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 697] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 698] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 699] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 700] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 701] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 702] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 703] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 704] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 705] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 706] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 707] Scores: {'faithfulness': 0.8, 'answer_relevance': 0.9, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 708] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 709] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.9, 'answer_correctness': 0.9, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 710] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 711] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 712] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 713] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 714] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 715] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 716] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 717] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 718] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 719] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 720] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 721] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 722] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 723] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 724] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 725] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 726] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 727] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 728] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 729] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 730] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 731] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 732] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 733] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 734] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 735] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 736] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 737] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 738] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 739] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 740] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 741] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 742] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.6, 'context_precision': 1.0, 'context_recall': 0.2}
+
+[Index 743] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 744] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.6, 'answer_correctness': 0.3, 'context_precision': 0.7, 'context_recall': 0.2}
+
+[Index 745] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.5, 'context_recall': 0.3}
+
+[Index 746] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 747] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 748] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 749] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 750] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 751] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 752] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.75, 'context_recall': 1.0}
+
+[Index 753] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 754] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 755] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 756] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 757] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 758] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 759] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 760] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 1.0, 'context_recall': 0.66}
+
+[Index 761] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 762] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 763] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 764] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 765] Scores: {'faithfulness': 0.75, 'answer_relevance': 0.9, 'answer_correctness': 0.75, 'context_precision': 0.7, 'context_recall': 0.8}
+
+[Index 766] Scores: {'faithfulness': 0.5, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 0.5, 'context_recall': 0.5}
+
+[Index 767] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 768] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.4}
+
+[Index 769] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 770] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 771] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 772] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 773] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 774] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 775] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 776] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 777] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 778] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.9}
+
+[Index 779] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 780] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.7, 'context_precision': 0.9, 'context_recall': 0.6}
+
+[Index 781] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 782] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 783] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 784] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.7, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.5}
+
+[Index 785] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 786] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 787] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 788] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 789] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 790] Scores: {'faithfulness': 0.8, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 791] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 792] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 793] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 794] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.9}
+
+[Index 795] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 796] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 797] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 798] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 799] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 800] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 801] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 802] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 803] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 804] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 805] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 806] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 807] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 808] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 809] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 810] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 811] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 812] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 813] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 814] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 815] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 816] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 817] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 818] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 819] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 820] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 821] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 0.7, 'context_recall': 0.3}
+
+[Index 822] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 823] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 824] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.4}
+
+[Index 825] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 826] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 827] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 828] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 829] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 830] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 831] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 832] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 833] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 834] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 835] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 1.0}
+
+[Index 836] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 837] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 838] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 839] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 840] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 841] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 842] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 843] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 844] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 845] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 846] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 847] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 848] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 849] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 850] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.9, 'context_precision': 0.8, 'context_recall': 0.9}
+
+[Index 851] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 852] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 853] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 854] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 855] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 856] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 857] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 858] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 859] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 860] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 861] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 862] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 863] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.7, 'context_precision': 0.6, 'context_recall': 0.5}
+
+[Index 864] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 865] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 866] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.9, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 867] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 868] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 869] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 870] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.6}
+
+[Index 871] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 872] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.75, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 873] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 874] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 875] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 876] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 877] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 878] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 879] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 880] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 881] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 882] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 883] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 884] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 885] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 886] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 887] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 888] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 889] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 890] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.9}
+
+[Index 891] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 892] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 893] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 894] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 895] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 896] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 897] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 898] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 899] Scores: {'faithfulness': 0.9, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 900] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 901] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 902] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 903] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 904] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 905] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.9}
+
+[Index 906] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 907] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 908] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 909] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 910] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 911] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 912] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 913] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 914] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 915] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 916] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 0.7, 'context_recall': 0.0}
+
+[Index 917] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 918] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 919] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 920] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 921] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 922] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 923] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 924] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 925] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.0, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 926] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 927] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.9, 'answer_correctness': 0.8, 'context_precision': 0.6, 'context_recall': 0.9}
+
+[Index 928] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 929] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 930] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 931] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 932] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 933] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 934] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 935] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 0.8}
+
+[Index 936] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 937] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 938] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 939] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 940] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 941] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 942] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 943] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.75}
+
+[Index 944] Scores: {'faithfulness': 0.0, 'answer_relevance': 1.0, 'answer_correctness': 0.0, 'context_precision': 1.0, 'context_recall': 0.0}
+
+[Index 945] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 946] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.7}
+
+[Index 947] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 948] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 949] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 950] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 951] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.9, 'context_recall': 0.7}
+
+[Index 952] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 953] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.8}
+
+[Index 954] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.7, 'context_precision': 1.0, 'context_recall': 0.5}
+
+[Index 955] Scores: {'faithfulness': 0.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.0, 'context_recall': 0.0}
+
+[Index 956] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 957] Scores: {'faithfulness': 1.0, 'answer_relevance': 0.8, 'answer_correctness': 0.6, 'context_precision': 0.8, 'context_recall': 0.7}
+
+[Index 958] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 959] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 960] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 961] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 962] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 963] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 964] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 965] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 966] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 967] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 968] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 969] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 970] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 971] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 972] Scores: {'faithfulness': 0.9, 'answer_relevance': 1.0, 'answer_correctness': 0.8, 'context_precision': 0.9, 'context_recall': 0.9}
+
+[Index 973] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 974] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 975] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 976] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 977] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 978] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 979] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 980] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 981] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 982] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 983] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 984] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 985] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 986] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 987] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 988] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 989] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.8, 'context_recall': 1.0}
+
+[Index 990] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 0.9, 'context_recall': 0.8}
+
+[Index 991] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 992] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.9, 'answer_correctness': 0.7, 'context_precision': 0.7, 'context_recall': 0.6}
+
+[Index 993] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 994] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 995] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 996] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 997] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 998] Scores: {'faithfulness': 0.7, 'answer_relevance': 0.8, 'answer_correctness': 0.7, 'context_precision': 0.8, 'context_recall': 0.6}
+
+[Index 999] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 1000] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+[Index 1001] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 1002] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 0.5, 'context_precision': 0.8, 'context_recall': 0.3}
+
+[Index 1003] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 0.8}
+
+[Index 1004] Scores: {'faithfulness': 1.0, 'answer_relevance': 1.0, 'answer_correctness': 1.0, 'context_precision': 1.0, 'context_recall': 1.0}
+
+
+--- Final Evaluation Summary ---
+faithfulness        : 0.9851
+answer_relevance    : 0.9902
+answer_correctness  : 0.9480
+context_precision   : 0.9644
+context_recall      : 0.9030
+
+Simple Average Score     : 0.9581
+Weighted Average Score   : 0.9668
+----------------------------------------
