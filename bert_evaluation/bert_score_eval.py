@@ -101,6 +101,22 @@ output_df = pd.concat([output_df, pd.DataFrame([avg_row])], ignore_index=True)
 output_path = "bert_eval_output/outputs/bert_precision_scores.csv"
 output_df.to_csv(output_path, index=False)
 
+# ----------------------------- Combine and Save Output -----------------------------
+# Read input CSV again to align with output
+input_df = pd.read_csv(input_path)
+
+# Ensure the input and output dataframes have the same length
+assert len(input_df) == len(output_df) - 1, "Mismatch in row count between input and output dataframes."
+
+# Combine input and output dataframes
+combined_df = pd.concat([input_df, output_df.iloc[:-1]], axis=1)
+
+# Save combined dataframe to CSV
+combined_output_path = "bert_eval_output/outputs/combined_bert_scores.csv"
+combined_df.to_csv(combined_output_path, index=False)
+
+logging.info(f"📁 Combined results saved to '{combined_output_path}'")
+
 # ----------------------------- Final Logs -----------------------------
 logging.info("✅ Evaluation complete.")
 logging.info(f"📁 Results saved to '{output_path}'")
