@@ -32,3 +32,15 @@
 2025-05-04 08:13:15,992 - INFO - ✅ Evaluation complete.
 2025-05-04 08:13:15,992 - INFO - 📁 Results saved to 'bert_eval_output/outputs/bert_precision_scores.csv'
 2025-05-04 08:13:15,992 - INFO - 📊 Average Scores: BERT Precision: 0.7253 | Cosine Similarity: 0.7921 | BLEU: 0.0606 | ROUGE-1: 0.3292 | ROUGE-L: 0.2804
+2025-05-06 10:30:01,814 - INFO - Loaded input CSV with 1005 rows.
+2025-05-06 10:30:01,816 - INFO - Dropped 0 rows due to missing values.
+2025-05-06 10:30:01,816 - INFO - Loading models for evaluation...
+2025-05-06 10:30:01,818 - INFO - Use pytorch device_name: cpu
+2025-05-06 10:30:01,818 - INFO - Load pretrained SentenceTransformer: BAAI/bge-small-en-v1.5
+2025-05-06 10:30:07,558 - INFO - Running BERTScore using 'microsoft/deberta-base'...
+2025-05-06 10:31:51,485 - INFO - Using default tokenizer.
+2025-05-06 10:31:51,486 - INFO - Running non-LLM metrics (cosine, BLEU, ROUGE)...
+2025-05-06 10:33:02,857 - INFO - 📁 Combined results saved to 'bert_eval_output/outputs/combined_bert_scores.csv'
+2025-05-06 10:33:02,857 - INFO - ✅ Evaluation complete.
+2025-05-06 10:33:02,857 - INFO - 📁 Results saved to 'bert_eval_output/outputs/bert_precision_scores.csv'
+2025-05-06 10:33:02,857 - INFO - 📊 Average Scores: BERT Precision: 0.7253 | Cosine Similarity: 0.7921 | BLEU: 0.0606 | ROUGE-1: 0.3292 | ROUGE-L: 0.2804
