@@ -9,6 +9,7 @@ import pandas as pd
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from sentence_transformers import CrossEncoder
+from functools import lru_cache
 
 class GroundTruthContextProcessor:
     INDEX_PATH = "../embeddings/full_faiss_index"
@@ -25,10 +26,12 @@ class GroundTruthContextProcessor:
         self.vectorstore = self.load_vectorstore()
         self.reranker = self.load_reranker()
 
+    @lru_cache(maxsize=1)
     def load_vectorstore(self):
         embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-large-en-v1.5")
         return FAISS.load_local(self.INDEX_PATH, embeddings=embeddings, allow_dangerous_deserialization=True)
 
+    @lru_cache(maxsize=1)
     def load_reranker(self):
         return CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 

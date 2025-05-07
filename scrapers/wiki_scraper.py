@@ -6,6 +6,7 @@ import time
 import re
 import shutil
 from urllib.parse import urljoin
+from functools import lru_cache
 
 class WikipediaScraper:
     def __init__(self, base_url, save_path="data/raw_scraped"):
@@ -21,7 +22,7 @@ class WikipediaScraper:
             print(f"Deleted previous data from: {self.save_path}")
 
     def get_links(self):
-        response = requests.get(self.base_url)
+        response = self._cached_get(self.base_url)
         soup = BeautifulSoup(response.text, "html.parser")
         content_div = soup.find("div", {"id": "mw-content-text"})
         links = content_div.find_all("a")
@@ -39,7 +40,7 @@ class WikipediaScraper:
         for idx, link in enumerate(links):
             try:
                 print(f"Scraping: {link}")
-                response = requests.get(link)
+                response = self._cached_get(link)
                 soup = BeautifulSoup(response.text, "html.parser")
                 content_div = soup.find("div", {"id": "mw-content-text"})
 
@@ -65,6 +66,11 @@ class WikipediaScraper:
 
             except Exception as e:
                 print(f"Error scraping {link}: {e}")
+
+    @staticmethod
+    @lru_cache(maxsize=None)
+    def _cached_get(url):
+        return requests.get(url)
 
 if __name__ == "__main__":
     base_url = "https://en.wikipedia.org/wiki/Outline_of_computer_science"

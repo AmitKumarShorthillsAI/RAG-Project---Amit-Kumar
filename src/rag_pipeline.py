@@ -7,6 +7,7 @@ from typing import List
 import re
 import difflib
 import logging
+from functools import lru_cache
 
 from tqdm import tqdm
 
@@ -17,6 +18,10 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+@lru_cache(maxsize=1)
+def get_embedding_model(model_name):
+    return HuggingFaceEmbeddings(model_name=model_name)
 
 class RagPipeline:
     def __init__(self, raw_data_path="../scrapers/data/raw_scraped", index_path="../embeddings/full_faiss_index", chunk_size=500, chunk_overlap=50):
@@ -37,9 +42,7 @@ class RagPipeline:
             separators=["\n\n", "\n", ".", " ", ""],
         )
 
-        self.embedding_model = HuggingFaceEmbeddings(
-            model_name="BAAI/bge-large-en-v1.5"
-        )
+        self.embedding_model = get_embedding_model("BAAI/bge-large-en-v1.5")
 
     def clean_text(self, text):
         text = re.sub(r"\[\d+\]", "", text)

@@ -6,6 +6,7 @@ from sentence_transformers import SentenceTransformer, util
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from rouge_score import rouge_scorer
 from dotenv import load_dotenv
+from functools import lru_cache
 
 # ----------------------------- Setup -----------------------------
 # Create output folders
@@ -44,11 +45,22 @@ candidates = df["generated_answer"].tolist()
 
 # ----------------------------- Load Models -----------------------------
 logging.info("Loading models for evaluation...")
-sim_model = SentenceTransformer('BAAI/bge-small-en-v1.5')  # For cosine similarity
+
+@lru_cache(maxsize=1)
+def get_sentence_transformer(model_name):
+    return SentenceTransformer(model_name)
+
+# Cache BERTScore computations for (candidates, references) pairs
+@lru_cache(maxsize=128)
+def compute_bertscore(cands_tuple, refs_tuple, model_type="microsoft/deberta-base"):
+    return score(list(cands_tuple), list(refs_tuple), model_type=model_type, lang="en", verbose=False)
+
+sim_model = get_sentence_transformer('BAAI/bge-small-en-v1.5')  # For cosine similarity
 
 # ----------------------------- LLM-based Metric: BERTScore -----------------------------
 logging.info("Running BERTScore using 'microsoft/deberta-base'...")
-P, _, _ = score(candidates, references, model_type="microsoft/deberta-base", lang="en", verbose=True)
+# Use cached BERTScore if same pairs occur
+P, _, _ = compute_bertscore(tuple(candidates), tuple(references), model_type="microsoft/deberta-base")
 
 # ----------------------------- Non-LLM Metrics -----------------------------
 # Initialize scorers and smoothing

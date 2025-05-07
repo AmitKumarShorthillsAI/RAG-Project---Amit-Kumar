@@ -5,6 +5,7 @@ import os
 import google.api_core.exceptions
 import json
 import re
+from functools import lru_cache
 
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel("gemini-2.0-flash")
@@ -30,7 +31,7 @@ def call_gemini(prompt, model):
 
 
 def call_combined_metrics(prompt, model):
-    response = call_gemini(prompt, model)
+    response = _cached_call_combined_metrics(prompt, model)
 
     if response.startswith("Error:"):
         return None
@@ -65,3 +66,7 @@ def extract_clean_json(response_text: str) -> dict:
         print("❌ Failed to parse cleaned response as JSON.")
         print("Cleaned response:", json_str)
         return None
+
+@lru_cache(maxsize=128)
+def _cached_call_combined_metrics(prompt, model):
+    return call_gemini(prompt, model)
