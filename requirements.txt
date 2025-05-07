@@ -153,6 +153,7 @@ uritemplate==4.1.1
 urllib3==2.4.0
 watchdog==6.0.0
 Wikipedia-API==0.8.1
+XlsxWriter==3.2.3
 xxhash==3.5.0
 yarl==1.20.0
 zstandard==0.23.0
