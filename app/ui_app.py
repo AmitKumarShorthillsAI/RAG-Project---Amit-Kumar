@@ -8,6 +8,7 @@ from datetime import datetime
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from sentence_transformers import CrossEncoder
+import logging
 
 # Constants
 INDEX_PATH = "../embeddings/full_faiss_index"
@@ -19,6 +20,22 @@ DB_PATH = os.path.join(LOG_DIR, "history.db")
 
 # Setup
 os.makedirs(LOG_DIR, exist_ok=True)
+
+# Configure module-level logger
+LOG_FILE = os.path.join(LOG_DIR, "ui_app.log")
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# File handler
+file_handler = logging.FileHandler(LOG_FILE)
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+# Console handler
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 # Initialize SQLite DB
 def init_db():
@@ -84,7 +101,7 @@ def stream_ollama(prompt):
                 token = json_line.get("response", "")
                 yield token
             except Exception as e:
-                print("JSON parse error:", e)
+                logger.error("JSON parse error: %s", e)
 
 # Sidebar: Query History
 with st.sidebar:
@@ -135,5 +152,6 @@ Answer:"""
                     json.dump(log_data, f, indent=2, ensure_ascii=False)
 
             except Exception as e:
+                logger.error("Error during search: %s", traceback.format_exc())
                 st.error("❌ An error occurred.")
                 st.code(traceback.format_exc())

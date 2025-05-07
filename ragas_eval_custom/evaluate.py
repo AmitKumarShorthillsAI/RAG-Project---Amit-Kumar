@@ -1,17 +1,33 @@
 import pandas as pd
-from tqdm import tqdm
 import os
+import logging
+from tqdm import tqdm
 from prompts import combined_eval_prompt
 from gemini_client import call_combined_metrics
 
 INPUT_CSV = "input/enriched_eval_data.csv"
 OUTPUT_CSV = "score/enriched_eval_with_scores.csv"
-LOG_FILE = "logs_errors/logs/gemini_logs.txt"
+LOG_FILE = "logs_errors/logs/gemini_logs.log"
 
 def ensure_dirs():
     os.makedirs("logs_errors/logs", exist_ok=True)
     os.makedirs("logs_errors/bad_outputs", exist_ok=True)
     os.makedirs("score", exist_ok=True)
+
+# Setup structured logging
+LOG_EVENTS_PATH = "logs_errors/logs/evaluate.log"
+os.makedirs(os.path.dirname(LOG_EVENTS_PATH), exist_ok=True)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+file_handler = logging.FileHandler(LOG_EVENTS_PATH)
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 def main():
     ensure_dirs()
@@ -21,10 +37,11 @@ def main():
     if os.path.exists(OUTPUT_CSV):
         existing_df = pd.read_csv(OUTPUT_CSV)
         processed_indices = set(existing_df.index)
-        print(f"Resuming... {len(processed_indices)} rows already processed.")
+        logger.info(f"Resuming... {len(processed_indices)} rows already processed.")
     else:
         existing_df = pd.DataFrame()
         processed_indices = set()
+        logger.info(f"Starting fresh evaluation from input CSV: {INPUT_CSV}")
 
     # Load Gemini model once
     import google.generativeai as genai
@@ -76,7 +93,7 @@ def main():
             )
 
 # Final average score calculation
-print("\nCalculating final average scores...")
+logger.info("Calculating final average scores...")
 result_df = pd.read_csv(OUTPUT_CSV)
 
 metrics = ["faithfulness", "answer_relevance", "answer_correctness", "context_precision", "context_recall"]
@@ -107,9 +124,9 @@ summary_lines = [
     "-" * 40
 ]
 
-# Print to console
+# Log summary lines
 for line in summary_lines:
-    print(line)
+    logger.info(line)
 
 # Append to log file
 with open(LOG_FILE, "a", encoding="utf-8") as log_f:

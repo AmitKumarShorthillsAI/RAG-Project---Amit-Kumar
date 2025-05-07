@@ -10,6 +10,26 @@ from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from sentence_transformers import CrossEncoder
 from functools import lru_cache
+import logging
+
+# Setup logging at script level
+SCRIPT_DIR = os.path.dirname(__file__)
+LOG_DIR_SCRIPT = os.path.join(SCRIPT_DIR, "logs")
+os.makedirs(LOG_DIR_SCRIPT, exist_ok=True)
+LOG_FILE = os.path.join(LOG_DIR_SCRIPT, "groundTruth_context.log")
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# File handler
+file_handler = logging.FileHandler(LOG_FILE)
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+# Console handler
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 class GroundTruthContextProcessor:
     INDEX_PATH = "../embeddings/full_faiss_index"
@@ -57,14 +77,14 @@ class GroundTruthContextProcessor:
     def process_and_save(self):
         if os.path.exists(self.OUTPUT_CSV_PATH):
             df = pd.read_csv(self.OUTPUT_CSV_PATH)
-            print(f"🔁 Resuming from existing file: {self.OUTPUT_CSV_PATH}")
+            logger.info(f"🔁 Resuming from existing file: {self.OUTPUT_CSV_PATH}")
         else:
             df = pd.read_csv(self.INPUT_CSV_PATH)
             df["generated_answer"] = ""
             df["retrieved_context"] = ""
-            print(f"🆕 Starting fresh from: {self.INPUT_CSV_PATH}")
+            logger.info(f"🆕 Starting fresh from: {self.INPUT_CSV_PATH}")
 
-        print(f"Processing {len(df)} questions...")
+        logger.info(f"Processing {len(df)} questions...")
 
         for i, row in tqdm(df.iterrows(), total=len(df)):
             if pd.notna(row["generated_answer"]) and str(row["generated_answer"]).strip():
@@ -107,14 +127,14 @@ Answer:"""
                         json.dump(log_data, f, indent=2, ensure_ascii=False)
 
             except Exception as e:
-                print(f"❌ Error processing question {i}: {e}")
+                logger.error(f"❌ Error processing question {i}: {e}")
                 df.at[i, "generated_answer"] = "[ERROR]"
                 df.at[i, "retrieved_context"] = "[ERROR]"
                 df.to_csv(self.OUTPUT_CSV_PATH, index=False)
 
             time.sleep(0.5)
 
-        print(f"\n✅ Done. Results saved to: {self.OUTPUT_CSV_PATH}")
+        logger.info(f"✅ Done. Results saved to: {self.OUTPUT_CSV_PATH}")
 
 if __name__ == "__main__":
     processor = GroundTruthContextProcessor()

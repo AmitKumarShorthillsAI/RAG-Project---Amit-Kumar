@@ -7,6 +7,26 @@ import re
 import shutil
 from urllib.parse import urljoin
 from functools import lru_cache
+import logging
+
+# Setup logging directory at script level
+SCRIPT_DIR = os.path.dirname(__file__)
+LOG_DIR = os.path.join(SCRIPT_DIR, "logs")
+os.makedirs(LOG_DIR, exist_ok=True)
+LOG_FILE = os.path.join(LOG_DIR, "wiki_scraper.log")
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# File handler
+file_handler = logging.FileHandler(LOG_FILE)
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
+# Console handler
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.INFO)
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 class WikipediaScraper:
     def __init__(self, base_url, save_path="data/raw_scraped"):
@@ -19,7 +39,9 @@ class WikipediaScraper:
     def clear_previous_data(self):
         if os.path.exists(self.save_path):
             shutil.rmtree(self.save_path)
-            print(f"Deleted previous data from: {self.save_path}")
+            logger.info(f"Deleted previous data from: {self.save_path}")
+        if not os.path.exists(self.save_path):
+            os.makedirs(self.save_path)
 
     def get_links(self):
         response = self._cached_get(self.base_url)
@@ -35,11 +57,11 @@ class WikipediaScraper:
 
     def scrape_and_save(self):
         links = self.get_links()
-        print(f"Found {len(links)} links. Starting to scrape...")
+        logger.info(f"Found {len(links)} links. Starting to scrape...")
 
         for idx, link in enumerate(links):
             try:
-                print(f"Scraping: {link}")
+                logger.info(f"Scraping: {link}")
                 response = self._cached_get(link)
                 soup = BeautifulSoup(response.text, "html.parser")
                 content_div = soup.find("div", {"id": "mw-content-text"})
@@ -59,13 +81,13 @@ class WikipediaScraper:
                 with open(filename, "w", encoding="utf-8") as f:
                     json.dump({"title": title, "content": content}, f, ensure_ascii=False, indent=2)
 
-                print(f"Saved: {title}")
+                logger.info(f"Saved: {title}")
 
                 if idx % 10 == 0:
                     time.sleep(2)
 
             except Exception as e:
-                print(f"Error scraping {link}: {e}")
+                logger.error("Error scraping %s: %s", link, e)
 
     @staticmethod
     @lru_cache(maxsize=None)
